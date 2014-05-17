@@ -1,4 +1,4 @@
-.identicon {
+.avatar {
   position: relative;
   top: 1px;
   display: inline-block;
@@ -11,972 +11,972 @@
   margin: 0;
   padding: 0;
 }
-.identicon {
+.avatar {
   width: 32px;
   height: 32px;
   line-height: 32px;
   font-size: 16px;
 }
-.identicon-sm {
+.avatar-sm {
   width: 16px;
   height: 16px;
   line-height: 16px;
   font-size: 8px;
 }
-.identicon-md {
+.avatar-md {
   width: 64px;
   height: 64px;
   line-height: 64px;
   font-size: 32px;
 }
-.identicon-lg {
+.avatar-lg {
   width: 128px;
   height: 128px;
   line-height: 128px;
   font-size: 64px;
 }
-.identicon:before {
+.avatar:before {
   content: "\003F";
 }
-.identicon-letter-a:before {
+.avatar-letter-a:before {
   content: "\0061";
 }
-.identicon-letter-b:before {
+.avatar-letter-b:before {
   content: "\0062";
 }
-.identicon-letter-c:before {
+.avatar-letter-c:before {
   content: "\0063";
 }
-.identicon-letter-d:before {
+.avatar-letter-d:before {
   content: "\0064";
 }
-.identicon-letter-e:before {
+.avatar-letter-e:before {
   content: "\0065";
 }
-.identicon-letter-f:before {
+.avatar-letter-f:before {
   content: "\0066";
 }
-.identicon-letter-g:before {
+.avatar-letter-g:before {
   content: "\0067";
 }
-.identicon-letter-h:before {
+.avatar-letter-h:before {
   content: "\0068";
 }
-.identicon-letter-i:before {
+.avatar-letter-i:before {
   content: "\0069";
 }
-.identicon-letter-j:before {
+.avatar-letter-j:before {
   content: "\006A";
 }
-.identicon-letter-k:before {
+.avatar-letter-k:before {
   content: "\006B";
 }
-.identicon-letter-l:before {
+.avatar-letter-l:before {
   content: "\006C";
 }
-.identicon-letter-m:before {
+.avatar-letter-m:before {
   content: "\006D";
 }
-.identicon-letter-n:before {
+.avatar-letter-n:before {
   content: "\006E";
 }
-.identicon-letter-o:before {
+.avatar-letter-o:before {
   content: "\006F";
 }
-.identicon-letter-p:before {
+.avatar-letter-p:before {
   content: "\0070";
 }
-.identicon-letter-q:before {
+.avatar-letter-q:before {
   content: "\0071";
 }
-.identicon-letter-r:before {
+.avatar-letter-r:before {
   content: "\0072";
 }
-.identicon-letter-s:before {
+.avatar-letter-s:before {
   content: "\0073";
 }
-.identicon-letter-t:before {
+.avatar-letter-t:before {
   content: "\0074";
 }
-.identicon-letter-u:before {
+.avatar-letter-u:before {
   content: "\0075";
 }
-.identicon-letter-v:before {
+.avatar-letter-v:before {
   content: "\0076";
 }
-.identicon-letter-w:before {
+.avatar-letter-w:before {
   content: "\0077";
 }
-.identicon-letter-x:before {
+.avatar-letter-x:before {
   content: "\0078";
 }
-.identicon-letter-y:before {
+.avatar-letter-y:before {
   content: "\0079";
 }
-.identicon-letter-z:before {
+.avatar-letter-z:before {
   content: "\007A";
 }
-.identicon-color-0 {
+.avatar-color-0 {
   background-color: #000000;
   color: #eeeeee;
 }
-.identicon-color-1 {
+.avatar-color-1 {
   background-color: #000033;
   color: #eeeeee;
 }
-.identicon-color-2 {
+.avatar-color-2 {
   background-color: #000066;
   color: #eeeeee;
 }
-.identicon-color-3 {
+.avatar-color-3 {
   background-color: #000099;
   color: #eeeeee;
 }
-.identicon-color-4 {
+.avatar-color-4 {
   background-color: #0000cc;
   color: #eeeeee;
 }
-.identicon-color-5 {
+.avatar-color-5 {
   background-color: #0000ff;
   color: #eeeeee;
 }
-.identicon-color-6 {
+.avatar-color-6 {
   background-color: #003300;
   color: #eeeeee;
 }
-.identicon-color-7 {
+.avatar-color-7 {
   background-color: #003333;
   color: #eeeeee;
 }
-.identicon-color-8 {
+.avatar-color-8 {
   background-color: #003366;
   color: #eeeeee;
 }
-.identicon-color-9 {
+.avatar-color-9 {
   background-color: #003399;
   color: #eeeeee;
 }
-.identicon-color-10 {
+.avatar-color-10 {
   background-color: #0033cc;
   color: #eeeeee;
 }
-.identicon-color-11 {
+.avatar-color-11 {
   background-color: #0033ff;
   color: #eeeeee;
 }
-.identicon-color-12 {
+.avatar-color-12 {
   background-color: #006600;
   color: #eeeeee;
 }
-.identicon-color-13 {
+.avatar-color-13 {
   background-color: #006633;
   color: #eeeeee;
 }
-.identicon-color-14 {
+.avatar-color-14 {
   background-color: #006666;
   color: #eeeeee;
 }
-.identicon-color-15 {
+.avatar-color-15 {
   background-color: #006699;
   color: #eeeeee;
 }
-.identicon-color-16 {
+.avatar-color-16 {
   background-color: #0066cc;
   color: #eeeeee;
 }
-.identicon-color-17 {
+.avatar-color-17 {
   background-color: #0066ff;
   color: #eeeeee;
 }
-.identicon-color-18 {
+.avatar-color-18 {
   background-color: #009900;
   color: #eeeeee;
 }
-.identicon-color-19 {
+.avatar-color-19 {
   background-color: #009933;
   color: #eeeeee;
 }
-.identicon-color-20 {
+.avatar-color-20 {
   background-color: #009966;
   color: #eeeeee;
 }
-.identicon-color-21 {
+.avatar-color-21 {
   background-color: #009999;
   color: #eeeeee;
 }
-.identicon-color-22 {
+.avatar-color-22 {
   background-color: #0099cc;
   color: #eeeeee;
 }
-.identicon-color-23 {
+.avatar-color-23 {
   background-color: #0099ff;
   color: #eeeeee;
 }
-.identicon-color-24 {
+.avatar-color-24 {
   background-color: #00cc00;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-25 {
+.avatar-color-25 {
   background-color: #00cc33;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-26 {
+.avatar-color-26 {
   background-color: #00cc66;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-27 {
+.avatar-color-27 {
   background-color: #00cc99;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-28 {
+.avatar-color-28 {
   background-color: #00cccc;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-29 {
+.avatar-color-29 {
   background-color: #00ccff;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-30 {
+.avatar-color-30 {
   background-color: #00ff00;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-31 {
+.avatar-color-31 {
   background-color: #00ff33;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-32 {
+.avatar-color-32 {
   background-color: #00ff66;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-33 {
+.avatar-color-33 {
   background-color: #00ff99;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-34 {
+.avatar-color-34 {
   background-color: #00ffcc;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-35 {
+.avatar-color-35 {
   background-color: #00ffff;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-36 {
+.avatar-color-36 {
   background-color: #330000;
   color: #eeeeee;
 }
-.identicon-color-37 {
+.avatar-color-37 {
   background-color: #330033;
   color: #eeeeee;
 }
-.identicon-color-38 {
+.avatar-color-38 {
   background-color: #330066;
   color: #eeeeee;
 }
-.identicon-color-39 {
+.avatar-color-39 {
   background-color: #330099;
   color: #eeeeee;
 }
-.identicon-color-40 {
+.avatar-color-40 {
   background-color: #3300cc;
   color: #eeeeee;
 }
-.identicon-color-41 {
+.avatar-color-41 {
   background-color: #3300ff;
   color: #eeeeee;
 }
-.identicon-color-42 {
+.avatar-color-42 {
   background-color: #333300;
   color: #eeeeee;
 }
-.identicon-color-43 {
+.avatar-color-43 {
   background-color: #333333;
   color: #eeeeee;
 }
-.identicon-color-44 {
+.avatar-color-44 {
   background-color: #333366;
   color: #eeeeee;
 }
-.identicon-color-45 {
+.avatar-color-45 {
   background-color: #333399;
   color: #eeeeee;
 }
-.identicon-color-46 {
+.avatar-color-46 {
   background-color: #3333cc;
   color: #eeeeee;
 }
-.identicon-color-47 {
+.avatar-color-47 {
   background-color: #3333ff;
   color: #eeeeee;
 }
-.identicon-color-48 {
+.avatar-color-48 {
   background-color: #336600;
   color: #eeeeee;
 }
-.identicon-color-49 {
+.avatar-color-49 {
   background-color: #336633;
   color: #eeeeee;
 }
-.identicon-color-50 {
+.avatar-color-50 {
   background-color: #336666;
   color: #eeeeee;
 }
-.identicon-color-51 {
+.avatar-color-51 {
   background-color: #336699;
   color: #eeeeee;
 }
-.identicon-color-52 {
+.avatar-color-52 {
   background-color: #3366cc;
   color: #eeeeee;
 }
-.identicon-color-53 {
+.avatar-color-53 {
   background-color: #3366ff;
   color: #eeeeee;
 }
-.identicon-color-54 {
+.avatar-color-54 {
   background-color: #339900;
   color: #eeeeee;
 }
-.identicon-color-55 {
+.avatar-color-55 {
   background-color: #339933;
   color: #eeeeee;
 }
-.identicon-color-56 {
+.avatar-color-56 {
   background-color: #339966;
   color: #eeeeee;
 }
-.identicon-color-57 {
+.avatar-color-57 {
   background-color: #339999;
   color: #eeeeee;
 }
-.identicon-color-58 {
+.avatar-color-58 {
   background-color: #3399cc;
   color: #eeeeee;
 }
-.identicon-color-59 {
+.avatar-color-59 {
   background-color: #3399ff;
   color: #eeeeee;
 }
-.identicon-color-60 {
+.avatar-color-60 {
   background-color: #33cc00;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-61 {
+.avatar-color-61 {
   background-color: #33cc33;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-62 {
+.avatar-color-62 {
   background-color: #33cc66;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-63 {
+.avatar-color-63 {
   background-color: #33cc99;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-64 {
+.avatar-color-64 {
   background-color: #33cccc;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-65 {
+.avatar-color-65 {
   background-color: #33ccff;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-66 {
+.avatar-color-66 {
   background-color: #33ff00;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-67 {
+.avatar-color-67 {
   background-color: #33ff33;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-68 {
+.avatar-color-68 {
   background-color: #33ff66;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-69 {
+.avatar-color-69 {
   background-color: #33ff99;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-70 {
+.avatar-color-70 {
   background-color: #33ffcc;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-71 {
+.avatar-color-71 {
   background-color: #33ffff;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-72 {
+.avatar-color-72 {
   background-color: #660000;
   color: #eeeeee;
 }
-.identicon-color-73 {
+.avatar-color-73 {
   background-color: #660033;
   color: #eeeeee;
 }
-.identicon-color-74 {
+.avatar-color-74 {
   background-color: #660066;
   color: #eeeeee;
 }
-.identicon-color-75 {
+.avatar-color-75 {
   background-color: #660099;
   color: #eeeeee;
 }
-.identicon-color-76 {
+.avatar-color-76 {
   background-color: #6600cc;
   color: #eeeeee;
 }
-.identicon-color-77 {
+.avatar-color-77 {
   background-color: #6600ff;
   color: #eeeeee;
 }
-.identicon-color-78 {
+.avatar-color-78 {
   background-color: #663300;
   color: #eeeeee;
 }
-.identicon-color-79 {
+.avatar-color-79 {
   background-color: #663333;
   color: #eeeeee;
 }
-.identicon-color-80 {
+.avatar-color-80 {
   background-color: #663366;
   color: #eeeeee;
 }
-.identicon-color-81 {
+.avatar-color-81 {
   background-color: #663399;
   color: #eeeeee;
 }
-.identicon-color-82 {
+.avatar-color-82 {
   background-color: #6633cc;
   color: #eeeeee;
 }
-.identicon-color-83 {
+.avatar-color-83 {
   background-color: #6633ff;
   color: #eeeeee;
 }
-.identicon-color-84 {
+.avatar-color-84 {
   background-color: #666600;
   color: #eeeeee;
 }
-.identicon-color-85 {
+.avatar-color-85 {
   background-color: #666633;
   color: #eeeeee;
 }
-.identicon-color-86 {
+.avatar-color-86 {
   background-color: #666666;
   color: #eeeeee;
 }
-.identicon-color-87 {
+.avatar-color-87 {
   background-color: #666699;
   color: #eeeeee;
 }
-.identicon-color-88 {
+.avatar-color-88 {
   background-color: #6666cc;
   color: #eeeeee;
 }
-.identicon-color-89 {
+.avatar-color-89 {
   background-color: #6666ff;
   color: #eeeeee;
 }
-.identicon-color-90 {
+.avatar-color-90 {
   background-color: #669900;
   color: #eeeeee;
 }
-.identicon-color-91 {
+.avatar-color-91 {
   background-color: #669933;
   color: #eeeeee;
 }
-.identicon-color-92 {
+.avatar-color-92 {
   background-color: #669966;
   color: #eeeeee;
 }
-.identicon-color-93 {
+.avatar-color-93 {
   background-color: #669999;
   color: #eeeeee;
 }
-.identicon-color-94 {
+.avatar-color-94 {
   background-color: #6699cc;
   color: #eeeeee;
 }
-.identicon-color-95 {
+.avatar-color-95 {
   background-color: #6699ff;
   color: #eeeeee;
 }
-.identicon-color-96 {
+.avatar-color-96 {
   background-color: #66cc00;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-97 {
+.avatar-color-97 {
   background-color: #66cc33;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-98 {
+.avatar-color-98 {
   background-color: #66cc66;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-99 {
+.avatar-color-99 {
   background-color: #66cc99;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-100 {
+.avatar-color-100 {
   background-color: #66cccc;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-101 {
+.avatar-color-101 {
   background-color: #66ccff;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-102 {
+.avatar-color-102 {
   background-color: #66ff00;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-103 {
+.avatar-color-103 {
   background-color: #66ff33;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-104 {
+.avatar-color-104 {
   background-color: #66ff66;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-105 {
+.avatar-color-105 {
   background-color: #66ff99;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-106 {
+.avatar-color-106 {
   background-color: #66ffcc;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-107 {
+.avatar-color-107 {
   background-color: #66ffff;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-108 {
+.avatar-color-108 {
   background-color: #990000;
   color: #eeeeee;
 }
-.identicon-color-109 {
+.avatar-color-109 {
   background-color: #990033;
   color: #eeeeee;
 }
-.identicon-color-110 {
+.avatar-color-110 {
   background-color: #990066;
   color: #eeeeee;
 }
-.identicon-color-111 {
+.avatar-color-111 {
   background-color: #990099;
   color: #eeeeee;
 }
-.identicon-color-112 {
+.avatar-color-112 {
   background-color: #9900cc;
   color: #eeeeee;
 }
-.identicon-color-113 {
+.avatar-color-113 {
   background-color: #9900ff;
   color: #eeeeee;
 }
-.identicon-color-114 {
+.avatar-color-114 {
   background-color: #993300;
   color: #eeeeee;
 }
-.identicon-color-115 {
+.avatar-color-115 {
   background-color: #993333;
   color: #eeeeee;
 }
-.identicon-color-116 {
+.avatar-color-116 {
   background-color: #993366;
   color: #eeeeee;
 }
-.identicon-color-117 {
+.avatar-color-117 {
   background-color: #993399;
   color: #eeeeee;
 }
-.identicon-color-118 {
+.avatar-color-118 {
   background-color: #9933cc;
   color: #eeeeee;
 }
-.identicon-color-119 {
+.avatar-color-119 {
   background-color: #9933ff;
   color: #eeeeee;
 }
-.identicon-color-120 {
+.avatar-color-120 {
   background-color: #996600;
   color: #eeeeee;
 }
-.identicon-color-121 {
+.avatar-color-121 {
   background-color: #996633;
   color: #eeeeee;
 }
-.identicon-color-122 {
+.avatar-color-122 {
   background-color: #996666;
   color: #eeeeee;
 }
-.identicon-color-123 {
+.avatar-color-123 {
   background-color: #996699;
   color: #eeeeee;
 }
-.identicon-color-124 {
+.avatar-color-124 {
   background-color: #9966cc;
   color: #eeeeee;
 }
-.identicon-color-125 {
+.avatar-color-125 {
   background-color: #9966ff;
   color: #eeeeee;
 }
-.identicon-color-126 {
+.avatar-color-126 {
   background-color: #999900;
   color: #eeeeee;
 }
-.identicon-color-127 {
+.avatar-color-127 {
   background-color: #999933;
   color: #eeeeee;
 }
-.identicon-color-128 {
+.avatar-color-128 {
   background-color: #999966;
   color: #eeeeee;
 }
-.identicon-color-129 {
+.avatar-color-129 {
   background-color: #999999;
   color: #eeeeee;
 }
-.identicon-color-130 {
+.avatar-color-130 {
   background-color: #9999cc;
   color: #eeeeee;
 }
-.identicon-color-131 {
+.avatar-color-131 {
   background-color: #9999ff;
   color: #eeeeee;
 }
-.identicon-color-132 {
+.avatar-color-132 {
   background-color: #99cc00;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-133 {
+.avatar-color-133 {
   background-color: #99cc33;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-134 {
+.avatar-color-134 {
   background-color: #99cc66;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-135 {
+.avatar-color-135 {
   background-color: #99cc99;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-136 {
+.avatar-color-136 {
   background-color: #99cccc;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-137 {
+.avatar-color-137 {
   background-color: #99ccff;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-138 {
+.avatar-color-138 {
   background-color: #99ff00;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-139 {
+.avatar-color-139 {
   background-color: #99ff33;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-140 {
+.avatar-color-140 {
   background-color: #99ff66;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-141 {
+.avatar-color-141 {
   background-color: #99ff99;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-142 {
+.avatar-color-142 {
   background-color: #99ffcc;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-143 {
+.avatar-color-143 {
   background-color: #99ffff;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-144 {
+.avatar-color-144 {
   background-color: #cc0000;
   color: #eeeeee;
 }
-.identicon-color-145 {
+.avatar-color-145 {
   background-color: #cc0033;
   color: #eeeeee;
 }
-.identicon-color-146 {
+.avatar-color-146 {
   background-color: #cc0066;
   color: #eeeeee;
 }
-.identicon-color-147 {
+.avatar-color-147 {
   background-color: #cc0099;
   color: #eeeeee;
 }
-.identicon-color-148 {
+.avatar-color-148 {
   background-color: #cc00cc;
   color: #eeeeee;
 }
-.identicon-color-149 {
+.avatar-color-149 {
   background-color: #cc00ff;
   color: #eeeeee;
 }
-.identicon-color-150 {
+.avatar-color-150 {
   background-color: #cc3300;
   color: #eeeeee;
 }
-.identicon-color-151 {
+.avatar-color-151 {
   background-color: #cc3333;
   color: #eeeeee;
 }
-.identicon-color-152 {
+.avatar-color-152 {
   background-color: #cc3366;
   color: #eeeeee;
 }
-.identicon-color-153 {
+.avatar-color-153 {
   background-color: #cc3399;
   color: #eeeeee;
 }
-.identicon-color-154 {
+.avatar-color-154 {
   background-color: #cc33cc;
   color: #eeeeee;
 }
-.identicon-color-155 {
+.avatar-color-155 {
   background-color: #cc33ff;
   color: #eeeeee;
 }
-.identicon-color-156 {
+.avatar-color-156 {
   background-color: #cc6600;
   color: #eeeeee;
 }
-.identicon-color-157 {
+.avatar-color-157 {
   background-color: #cc6633;
   color: #eeeeee;
 }
-.identicon-color-158 {
+.avatar-color-158 {
   background-color: #cc6666;
   color: #eeeeee;
 }
-.identicon-color-159 {
+.avatar-color-159 {
   background-color: #cc6699;
   color: #eeeeee;
 }
-.identicon-color-160 {
+.avatar-color-160 {
   background-color: #cc66cc;
   color: #eeeeee;
 }
-.identicon-color-161 {
+.avatar-color-161 {
   background-color: #cc66ff;
   color: #eeeeee;
 }
-.identicon-color-162 {
+.avatar-color-162 {
   background-color: #cc9900;
   color: #eeeeee;
 }
-.identicon-color-163 {
+.avatar-color-163 {
   background-color: #cc9933;
   color: #eeeeee;
 }
-.identicon-color-164 {
+.avatar-color-164 {
   background-color: #cc9966;
   color: #eeeeee;
 }
-.identicon-color-165 {
+.avatar-color-165 {
   background-color: #cc9999;
   color: #eeeeee;
 }
-.identicon-color-166 {
+.avatar-color-166 {
   background-color: #cc99cc;
   color: #eeeeee;
 }
-.identicon-color-167 {
+.avatar-color-167 {
   background-color: #cc99ff;
   color: #eeeeee;
 }
-.identicon-color-168 {
+.avatar-color-168 {
   background-color: #cccc00;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-169 {
+.avatar-color-169 {
   background-color: #cccc33;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-170 {
+.avatar-color-170 {
   background-color: #cccc66;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-171 {
+.avatar-color-171 {
   background-color: #cccc99;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-172 {
+.avatar-color-172 {
   background-color: #cccccc;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-173 {
+.avatar-color-173 {
   background-color: #ccccff;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-174 {
+.avatar-color-174 {
   background-color: #ccff00;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-175 {
+.avatar-color-175 {
   background-color: #ccff33;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-176 {
+.avatar-color-176 {
   background-color: #ccff66;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-177 {
+.avatar-color-177 {
   background-color: #ccff99;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-178 {
+.avatar-color-178 {
   background-color: #ccffcc;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-179 {
+.avatar-color-179 {
   background-color: #ccffff;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-180 {
+.avatar-color-180 {
   background-color: #ff0000;
   color: #eeeeee;
 }
-.identicon-color-181 {
+.avatar-color-181 {
   background-color: #ff0033;
   color: #eeeeee;
 }
-.identicon-color-182 {
+.avatar-color-182 {
   background-color: #ff0066;
   color: #eeeeee;
 }
-.identicon-color-183 {
+.avatar-color-183 {
   background-color: #ff0099;
   color: #eeeeee;
 }
-.identicon-color-184 {
+.avatar-color-184 {
   background-color: #ff00cc;
   color: #eeeeee;
 }
-.identicon-color-185 {
+.avatar-color-185 {
   background-color: #ff00ff;
   color: #eeeeee;
 }
-.identicon-color-186 {
+.avatar-color-186 {
   background-color: #ff3300;
   color: #eeeeee;
 }
-.identicon-color-187 {
+.avatar-color-187 {
   background-color: #ff3333;
   color: #eeeeee;
 }
-.identicon-color-188 {
+.avatar-color-188 {
   background-color: #ff3366;
   color: #eeeeee;
 }
-.identicon-color-189 {
+.avatar-color-189 {
   background-color: #ff3399;
   color: #eeeeee;
 }
-.identicon-color-190 {
+.avatar-color-190 {
   background-color: #ff33cc;
   color: #eeeeee;
 }
-.identicon-color-191 {
+.avatar-color-191 {
   background-color: #ff33ff;
   color: #eeeeee;
 }
-.identicon-color-192 {
+.avatar-color-192 {
   background-color: #ff6600;
   color: #eeeeee;
 }
-.identicon-color-193 {
+.avatar-color-193 {
   background-color: #ff6633;
   color: #eeeeee;
 }
-.identicon-color-194 {
+.avatar-color-194 {
   background-color: #ff6666;
   color: #eeeeee;
 }
-.identicon-color-195 {
+.avatar-color-195 {
   background-color: #ff6699;
   color: #eeeeee;
 }
-.identicon-color-196 {
+.avatar-color-196 {
   background-color: #ff66cc;
   color: #eeeeee;
 }
-.identicon-color-197 {
+.avatar-color-197 {
   background-color: #ff66ff;
   color: #eeeeee;
 }
-.identicon-color-198 {
+.avatar-color-198 {
   background-color: #ff9900;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-199 {
+.avatar-color-199 {
   background-color: #ff9933;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-200 {
+.avatar-color-200 {
   background-color: #ff9966;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-201 {
+.avatar-color-201 {
   background-color: #ff9999;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-202 {
+.avatar-color-202 {
   background-color: #ff99cc;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-203 {
+.avatar-color-203 {
   background-color: #ff99ff;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-204 {
+.avatar-color-204 {
   background-color: #ffcc00;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-205 {
+.avatar-color-205 {
   background-color: #ffcc33;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-206 {
+.avatar-color-206 {
   background-color: #ffcc66;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-207 {
+.avatar-color-207 {
   background-color: #ffcc99;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-208 {
+.avatar-color-208 {
   background-color: #ffcccc;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-209 {
+.avatar-color-209 {
   background-color: #ffccff;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-210 {
+.avatar-color-210 {
   background-color: #ffff00;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-211 {
+.avatar-color-211 {
   background-color: #ffff33;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-212 {
+.avatar-color-212 {
   background-color: #ffff66;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-213 {
+.avatar-color-213 {
   background-color: #ffff99;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-214 {
+.avatar-color-214 {
   background-color: #ffffcc;
-  color: #555555;
+  color: #333333;
 }
-.identicon-color-215 {
+.avatar-color-215 {
   background-color: #ffffff;
-  color: #555555;
+  color: #333333;
 }

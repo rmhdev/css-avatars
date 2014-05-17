@@ -1,4 +1,48 @@
-css-identicon
-=============
+# css-avatars
 
-Basic user identicons created with css
+Minimalistic avatars based on css
+
+## How to use
+
+```
+<i class="avatar avatar-color-12 avatar-letter-r"></i>
+```
+
+- `avatar`: base class
+- `avatar-color-X`: web-safe color, from `0` to `215`. Know more about [web-safe colors][]
+- `avatar-letter-Y`: letter, from `a` to `z`
+- `avatar-Z`: (optional) size: `sm`, `md`, `lg`
+
+## Examples
+
+![Avatar examples](docs/avatar-example.png)
+
+## Code
+
+I started this project with some goals in mind:
+
+- Play with [Less][]
+- Learn more about CSS + fonts.
+
+### Change log
+
+* `0.0.1` (May 18, 2014): initial release.
+
+## Copyright and license
+
+Code and documentation copyright 2014 Rober Martín.
+Code released under [the MIT license](LICENSE).
+Docs released under [Creative Commons CC BY 4.0][].
+
+This project is inspired in Gmail's default avatars. CSS is based on [Glyphicons] awesome work.
+
+## Author
+
+My name is [Rober Martín][] ([@rmhdev][]). I'm a developer from Donostia / San Sebastián.
+
+[Less]: http://lesscss.org/
+[web-safe colors]: http://en.wikipedia.org/wiki/Web_colors#Web-safe_colors
+[Creative Commons CC BY 4.0]: http://creativecommons.org/licenses/by/4.0/
+[Glyphicons]: http://glyphicons.com/
+[Rober Martín]: http://rmhdev.net/
+[@rmhdev]: http://twitter.com/rmhdev
