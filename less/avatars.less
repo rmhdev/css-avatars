@@ -1,0 +1,75 @@
+.avatar {
+  position: relative;
+  top: 1px;
+  display: inline-block;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 0;
+}
+
+// sizes:
+
+.avatar    { width:  32px; height:  32px;  line-height:  32px; font-size: 16px; }
+.avatar-sm { width:  16px; height:  16px;  line-height:  16px; font-size: 8px; }
+.avatar-md { width:  64px; height:  64px;  line-height:  64px; font-size: 32px; }
+.avatar-lg { width: 128px; height: 128px;  line-height: 128px; font-size: 64px; }
+
+// letters:
+
+.avatar:before { content: "\003F";}
+.avatar-letter-a:before { content: "\0061"; }
+.avatar-letter-b:before { content: "\0062"; }
+.avatar-letter-c:before { content: "\0063"; }
+.avatar-letter-d:before { content: "\0064"; }
+.avatar-letter-e:before { content: "\0065"; }
+.avatar-letter-f:before { content: "\0066"; }
+.avatar-letter-g:before { content: "\0067"; }
+.avatar-letter-h:before { content: "\0068"; }
+.avatar-letter-i:before { content: "\0069"; }
+.avatar-letter-j:before { content: "\006A"; }
+.avatar-letter-k:before { content: "\006B"; }
+.avatar-letter-l:before { content: "\006C"; }
+.avatar-letter-m:before { content: "\006D"; }
+.avatar-letter-n:before { content: "\006E"; }
+.avatar-letter-o:before { content: "\006F"; }
+.avatar-letter-p:before { content: "\0070"; }
+.avatar-letter-q:before { content: "\0071"; }
+.avatar-letter-r:before { content: "\0072"; }
+.avatar-letter-s:before { content: "\0073"; }
+.avatar-letter-t:before { content: "\0074"; }
+.avatar-letter-u:before { content: "\0075"; }
+.avatar-letter-v:before { content: "\0076"; }
+.avatar-letter-w:before { content: "\0077"; }
+.avatar-letter-x:before { content: "\0078"; }
+.avatar-letter-y:before { content: "\0079"; }
+.avatar-letter-z:before { content: "\007A"; }
+
+
+// colors:
+
+@color-dark:  #555;
+@color-light: #eee;
+@safe-rgb:    0, 51, 102, 153, 204, 255;
+@size:        length(@safe-rgb);
+
+.generate-colors(216);
+
+.generate-colors(@n, @i: 0) when (@i < @n) {
+  .avatar-color-@{i} {
+    @mod3: mod(@i, @size);
+    @mod2: mod(floor(@i / @size), @size);
+    @mod1: mod(floor(floor(@i / @size) / @size), @size);
+    @char3 : extract(@safe-rgb, (@mod3 + 1));
+    @char2 : extract(@safe-rgb, (@mod2 + 1));
+    @char1 : extract(@safe-rgb, (@mod1 + 1));
+    @avatarColor: rgb(@char1, @char2, @char3);
+    background-color: @avatarColor;
+    color: contrast(@avatarColor, @color-dark, @color-light);
+  }
+  .generate-colors(@n, (@i + 1));
+}
