@@ -2,10 +2,56 @@
   position: relative;
   top: 1px;
   display: inline-block;
-  font-family: 'Glyphicons Halflings';
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   font-style: normal;
   font-weight: normal;
   line-height: 1;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+}
+.identicon-color-0 {
+  background-color: "000";
+}
+.identicon-color-1 {
+  background-color: "003";
+}
+.identicon-color-2 {
+  background-color: "006";
+}
+.identicon-color-3 {
+  background-color: "009";
+}
+.identicon-color-4 {
+  background-color: "00C";
+}
+.identicon-color-5 {
+  background-color: "00F";
+}
+.identicon-color-6 {
+  background-color: "030";
+}
+.identicon-color-7 {
+  background-color: "033";
+}
+.identicon-color-8 {
+  background-color: "036";
+}
+.identicon-color-9 {
+  background-color: "039";
+}
+.identicon-color-10 {
+  background-color: "03C";
+}
+.identicon-color-11 {
+  background-color: "03F";
+}
+.identicon-color-12 {
+  background-color: "060";
+}
+.identicon-color-13 {
+  background-color: "063";
+}
+.identicon-color-14 {
+  background-color: "066";
+}
+.identicon-color-15 {
+  background-color: "069";
 }

@@ -1,11 +1,31 @@
+@color-dark: #333;
+@color-light: #999;
+
 .identicon {
   position: relative;
   top: 1px;
   display: inline-block;
-  font-family: 'Glyphicons Halflings';
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   font-style: normal;
   font-weight: normal;
   line-height: 1;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+}
+
+@safe-hex:  "0", "3", "6", "9", "C", "F";
+@size:      length(@safe-hex);
+
+.generate-colors(16);
+
+.generate-colors(@n, @i: 0) when (@i < @n) {
+  .identicon-color-@{i} {
+    @mod3: mod(@i, @size);
+    @mod2: mod(floor(@i / @size), @size);
+    @mod1: mod(floor(floor(@i / @size) / @size), @size);
+    @char3 : extract(@safe-hex, (@mod3 + 1));
+    @char2 : extract(@safe-hex, (@mod2 + 1));
+    @char1 : extract(@safe-hex, (@mod1 + 1));
+    @identiconColor: "@{char1}@{char2}@{char3}";
+    background-color: @identiconColor;
+  }
+  .generate-colors(@n, (@i + 1));
 }
