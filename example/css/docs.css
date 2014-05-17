@@ -1,0 +1,50 @@
+.doc-identicons {
+    margin: 0 -19px 20px -16px;
+    overflow: hidden
+}
+
+.doc-identicons-list {
+    padding-left: 0;
+    list-style: none
+}
+
+.doc-identicons li {
+    float: left;
+    width: 25%;
+    height: 115px;
+    padding: 10px;
+    font-size: 10px;
+    line-height: 1.4;
+    text-align: center;
+    border: 1px solid #fff;
+    background-color: #f9f9f9
+}
+
+.doc-identicons .identicon {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    /*font-size: 24px*/
+}
+
+.doc-identicons .doc-identicon-class {
+    display: block;
+    text-align: center;
+    word-wrap: break-word
+}
+
+.doc-identicons li:hover {
+    color: #fff;
+    background-color: #563d7c
+}
+
+@media (min-width: 768px) {
+    .doc-identicons {
+        margin-left: 0;
+        margin-right: 0
+    }
+
+    .doc-identicons li {
+        width: 12.5%;
+        font-size: 12px
+    }
+}
