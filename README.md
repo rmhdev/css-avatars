@@ -15,7 +15,7 @@ Minimalistic avatars based on css
 
 ## Examples
 
-![Avatar examples](docs/avatar-example.png)
+![Avatar examples](docs/avatars-example.png)
 
 ## Code
 
