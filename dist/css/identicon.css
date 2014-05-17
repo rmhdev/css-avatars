@@ -8,50 +8,66 @@
   line-height: 1;
 }
 .identicon-color-0 {
-  background-color: "000";
+  background-color: #000000;
+  color: #999999;
 }
 .identicon-color-1 {
-  background-color: "003";
+  background-color: #000033;
+  color: #999999;
 }
 .identicon-color-2 {
-  background-color: "006";
+  background-color: #000066;
+  color: #999999;
 }
 .identicon-color-3 {
-  background-color: "009";
+  background-color: #000099;
+  color: #999999;
 }
 .identicon-color-4 {
-  background-color: "00C";
+  background-color: #0000cc;
+  color: #999999;
 }
 .identicon-color-5 {
-  background-color: "00F";
+  background-color: #0000ff;
+  color: #999999;
 }
 .identicon-color-6 {
-  background-color: "030";
+  background-color: #003300;
+  color: #999999;
 }
 .identicon-color-7 {
-  background-color: "033";
+  background-color: #003333;
+  color: #999999;
 }
 .identicon-color-8 {
-  background-color: "036";
+  background-color: #003366;
+  color: #999999;
 }
 .identicon-color-9 {
-  background-color: "039";
+  background-color: #003399;
+  color: #999999;
 }
 .identicon-color-10 {
-  background-color: "03C";
+  background-color: #0033cc;
+  color: #999999;
 }
 .identicon-color-11 {
-  background-color: "03F";
+  background-color: #0033ff;
+  color: #999999;
 }
 .identicon-color-12 {
-  background-color: "060";
+  background-color: #006600;
+  color: #999999;
 }
 .identicon-color-13 {
-  background-color: "063";
+  background-color: #006633;
+  color: #999999;
 }
 .identicon-color-14 {
-  background-color: "066";
+  background-color: #006666;
+  color: #999999;
 }
 .identicon-color-15 {
-  background-color: "069";
+  background-color: #006699;
+  color: #999999;
 }

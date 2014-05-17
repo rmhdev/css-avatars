@@ -11,8 +11,8 @@
   line-height: 1;
 }
 
-@safe-hex:  "0", "3", "6", "9", "C", "F";
-@size:      length(@safe-hex);
+@safe-rgb:  0, 51, 102, 153, 204, 255;
+@size:      length(@safe-rgb);
 
 .generate-colors(16);
 
@@ -21,11 +21,12 @@
     @mod3: mod(@i, @size);
     @mod2: mod(floor(@i / @size), @size);
     @mod1: mod(floor(floor(@i / @size) / @size), @size);
-    @char3 : extract(@safe-hex, (@mod3 + 1));
-    @char2 : extract(@safe-hex, (@mod2 + 1));
-    @char1 : extract(@safe-hex, (@mod1 + 1));
-    @identiconColor: "@{char1}@{char2}@{char3}";
+    @char3 : extract(@safe-rgb, (@mod3 + 1));
+    @char2 : extract(@safe-rgb, (@mod2 + 1));
+    @char1 : extract(@safe-rgb, (@mod1 + 1));
+    @identiconColor: rgb(@char1, @char2, @char3);
     background-color: @identiconColor;
+    color: contrast(@identiconColor, @color-dark, @color-light);
   }
   .generate-colors(@n, (@i + 1));
 }
