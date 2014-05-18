@@ -43,7 +43,7 @@ Code released under [the MIT license](LICENSE).
 Docs released under [Creative Commons CC BY 4.0][].
 
 This project is inspired in default avatars used in Google's Gmail Android App.
-CSS is based on [Glyphicons] (awesome project).
+CSS is based on [Glyphicons][] (awesome project!).
 I started working on this project after reading [Switch from Gravatar to HTML/CSS letters for no-avatar users][].
 
 ## Author
