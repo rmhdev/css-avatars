@@ -70,18 +70,20 @@
   @mod3: mod(@i, @size);
   @mod2: mod(floor(@i / @size), @size);
   @mod1: mod(floor(floor(@i / @size) / @size), @size);
-  @char3: extract(@safe-rgb, (@mod3 + 1));
-  @char2: extract(@safe-rgb, (@mod2 + 1));
-  @char1: extract(@safe-rgb, (@mod1 + 1));
-  @primaryColor: rgb(@char1, @char2, @char3);
+  @blue: extract(@safe-rgb, (@mod3 + 1));
+  @green: extract(@safe-rgb, (@mod2 + 1));
+  @red: extract(@safe-rgb, (@mod1 + 1));
+  @primaryColor: rgb(@red, @green, @blue);
   @secondaryColor: contrast(@primaryColor, @color-dark, @color-light);
   .avatar-color-@{i} {
     background-color: @primaryColor;
     color: @secondaryColor;
+    text-shadow: 0 1px 2px contrast(@primaryColor, rgba(0, 0, 0, .6), rgba(255, 255, 255, .6));
   }
   .avatar-inverse.avatar-color-@{i} {
     background-color: @secondaryColor;
     color: @primaryColor;
+    text-shadow: 0 1px 2px contrast(@secondaryColor, rgba(0, 0, 0, .6), rgba(255, 255, 255, .6));
   }
   .generate-colors(@n, (@i + 1));
 }

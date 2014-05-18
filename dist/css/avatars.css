@@ -129,1728 +129,2160 @@
 .avatar-color-0 {
   background-color: #000000;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-0 {
   background-color: #eeeeee;
   color: #000000;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-1 {
   background-color: #000033;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-1 {
   background-color: #eeeeee;
   color: #000033;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-2 {
   background-color: #000066;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-2 {
   background-color: #eeeeee;
   color: #000066;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-3 {
   background-color: #000099;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-3 {
   background-color: #eeeeee;
   color: #000099;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-4 {
   background-color: #0000cc;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-4 {
   background-color: #eeeeee;
   color: #0000cc;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-5 {
   background-color: #0000ff;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-5 {
   background-color: #eeeeee;
   color: #0000ff;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-6 {
   background-color: #003300;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-6 {
   background-color: #eeeeee;
   color: #003300;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-7 {
   background-color: #003333;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-7 {
   background-color: #eeeeee;
   color: #003333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-8 {
   background-color: #003366;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-8 {
   background-color: #eeeeee;
   color: #003366;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-9 {
   background-color: #003399;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-9 {
   background-color: #eeeeee;
   color: #003399;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-10 {
   background-color: #0033cc;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-10 {
   background-color: #eeeeee;
   color: #0033cc;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-11 {
   background-color: #0033ff;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-11 {
   background-color: #eeeeee;
   color: #0033ff;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-12 {
   background-color: #006600;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-12 {
   background-color: #eeeeee;
   color: #006600;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-13 {
   background-color: #006633;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-13 {
   background-color: #eeeeee;
   color: #006633;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-14 {
   background-color: #006666;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-14 {
   background-color: #eeeeee;
   color: #006666;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-15 {
   background-color: #006699;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-15 {
   background-color: #eeeeee;
   color: #006699;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-16 {
   background-color: #0066cc;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-16 {
   background-color: #eeeeee;
   color: #0066cc;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-17 {
   background-color: #0066ff;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-17 {
   background-color: #eeeeee;
   color: #0066ff;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-18 {
   background-color: #009900;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-18 {
   background-color: #eeeeee;
   color: #009900;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-19 {
   background-color: #009933;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-19 {
   background-color: #eeeeee;
   color: #009933;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-20 {
   background-color: #009966;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-20 {
   background-color: #eeeeee;
   color: #009966;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-21 {
   background-color: #009999;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-21 {
   background-color: #eeeeee;
   color: #009999;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-22 {
   background-color: #0099cc;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-22 {
   background-color: #eeeeee;
   color: #0099cc;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-23 {
   background-color: #0099ff;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-23 {
   background-color: #eeeeee;
   color: #0099ff;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-24 {
   background-color: #00cc00;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-24 {
   background-color: #333333;
   color: #00cc00;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-25 {
   background-color: #00cc33;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-25 {
   background-color: #333333;
   color: #00cc33;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-26 {
   background-color: #00cc66;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-26 {
   background-color: #333333;
   color: #00cc66;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-27 {
   background-color: #00cc99;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-27 {
   background-color: #333333;
   color: #00cc99;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-28 {
   background-color: #00cccc;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-28 {
   background-color: #333333;
   color: #00cccc;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-29 {
   background-color: #00ccff;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-29 {
   background-color: #333333;
   color: #00ccff;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-30 {
   background-color: #00ff00;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-30 {
   background-color: #333333;
   color: #00ff00;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-31 {
   background-color: #00ff33;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-31 {
   background-color: #333333;
   color: #00ff33;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-32 {
   background-color: #00ff66;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-32 {
   background-color: #333333;
   color: #00ff66;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-33 {
   background-color: #00ff99;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-33 {
   background-color: #333333;
   color: #00ff99;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-34 {
   background-color: #00ffcc;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-34 {
   background-color: #333333;
   color: #00ffcc;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-35 {
   background-color: #00ffff;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-35 {
   background-color: #333333;
   color: #00ffff;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-36 {
   background-color: #330000;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-36 {
   background-color: #eeeeee;
   color: #330000;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-37 {
   background-color: #330033;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-37 {
   background-color: #eeeeee;
   color: #330033;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-38 {
   background-color: #330066;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-38 {
   background-color: #eeeeee;
   color: #330066;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-39 {
   background-color: #330099;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-39 {
   background-color: #eeeeee;
   color: #330099;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-40 {
   background-color: #3300cc;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-40 {
   background-color: #eeeeee;
   color: #3300cc;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-41 {
   background-color: #3300ff;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-41 {
   background-color: #eeeeee;
   color: #3300ff;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-42 {
   background-color: #333300;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-42 {
   background-color: #eeeeee;
   color: #333300;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-43 {
   background-color: #333333;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-43 {
   background-color: #eeeeee;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-44 {
   background-color: #333366;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-44 {
   background-color: #eeeeee;
   color: #333366;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-45 {
   background-color: #333399;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-45 {
   background-color: #eeeeee;
   color: #333399;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-46 {
   background-color: #3333cc;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-46 {
   background-color: #eeeeee;
   color: #3333cc;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-47 {
   background-color: #3333ff;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-47 {
   background-color: #eeeeee;
   color: #3333ff;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-48 {
   background-color: #336600;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-48 {
   background-color: #eeeeee;
   color: #336600;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-49 {
   background-color: #336633;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-49 {
   background-color: #eeeeee;
   color: #336633;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-50 {
   background-color: #336666;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-50 {
   background-color: #eeeeee;
   color: #336666;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-51 {
   background-color: #336699;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-51 {
   background-color: #eeeeee;
   color: #336699;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-52 {
   background-color: #3366cc;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-52 {
   background-color: #eeeeee;
   color: #3366cc;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-53 {
   background-color: #3366ff;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-53 {
   background-color: #eeeeee;
   color: #3366ff;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-54 {
   background-color: #339900;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-54 {
   background-color: #eeeeee;
   color: #339900;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-55 {
   background-color: #339933;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-55 {
   background-color: #eeeeee;
   color: #339933;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-56 {
   background-color: #339966;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-56 {
   background-color: #eeeeee;
   color: #339966;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-57 {
   background-color: #339999;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-57 {
   background-color: #eeeeee;
   color: #339999;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-58 {
   background-color: #3399cc;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-58 {
   background-color: #eeeeee;
   color: #3399cc;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-59 {
   background-color: #3399ff;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-59 {
   background-color: #eeeeee;
   color: #3399ff;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-60 {
   background-color: #33cc00;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-60 {
   background-color: #333333;
   color: #33cc00;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-61 {
   background-color: #33cc33;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-61 {
   background-color: #333333;
   color: #33cc33;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-62 {
   background-color: #33cc66;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-62 {
   background-color: #333333;
   color: #33cc66;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-63 {
   background-color: #33cc99;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-63 {
   background-color: #333333;
   color: #33cc99;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-64 {
   background-color: #33cccc;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-64 {
   background-color: #333333;
   color: #33cccc;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-65 {
   background-color: #33ccff;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-65 {
   background-color: #333333;
   color: #33ccff;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-66 {
   background-color: #33ff00;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-66 {
   background-color: #333333;
   color: #33ff00;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-67 {
   background-color: #33ff33;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-67 {
   background-color: #333333;
   color: #33ff33;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-68 {
   background-color: #33ff66;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-68 {
   background-color: #333333;
   color: #33ff66;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-69 {
   background-color: #33ff99;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-69 {
   background-color: #333333;
   color: #33ff99;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-70 {
   background-color: #33ffcc;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-70 {
   background-color: #333333;
   color: #33ffcc;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-71 {
   background-color: #33ffff;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-71 {
   background-color: #333333;
   color: #33ffff;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-72 {
   background-color: #660000;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-72 {
   background-color: #eeeeee;
   color: #660000;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-73 {
   background-color: #660033;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-73 {
   background-color: #eeeeee;
   color: #660033;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-74 {
   background-color: #660066;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-74 {
   background-color: #eeeeee;
   color: #660066;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-75 {
   background-color: #660099;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-75 {
   background-color: #eeeeee;
   color: #660099;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-76 {
   background-color: #6600cc;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-76 {
   background-color: #eeeeee;
   color: #6600cc;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-77 {
   background-color: #6600ff;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-77 {
   background-color: #eeeeee;
   color: #6600ff;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-78 {
   background-color: #663300;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-78 {
   background-color: #eeeeee;
   color: #663300;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-79 {
   background-color: #663333;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-79 {
   background-color: #eeeeee;
   color: #663333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-80 {
   background-color: #663366;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-80 {
   background-color: #eeeeee;
   color: #663366;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-81 {
   background-color: #663399;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-81 {
   background-color: #eeeeee;
   color: #663399;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-82 {
   background-color: #6633cc;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-82 {
   background-color: #eeeeee;
   color: #6633cc;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-83 {
   background-color: #6633ff;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-83 {
   background-color: #eeeeee;
   color: #6633ff;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-84 {
   background-color: #666600;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-84 {
   background-color: #eeeeee;
   color: #666600;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-85 {
   background-color: #666633;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-85 {
   background-color: #eeeeee;
   color: #666633;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-86 {
   background-color: #666666;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-86 {
   background-color: #eeeeee;
   color: #666666;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-87 {
   background-color: #666699;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-87 {
   background-color: #eeeeee;
   color: #666699;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-88 {
   background-color: #6666cc;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-88 {
   background-color: #eeeeee;
   color: #6666cc;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-89 {
   background-color: #6666ff;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-89 {
   background-color: #eeeeee;
   color: #6666ff;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-90 {
   background-color: #669900;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-90 {
   background-color: #eeeeee;
   color: #669900;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-91 {
   background-color: #669933;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-91 {
   background-color: #eeeeee;
   color: #669933;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-92 {
   background-color: #669966;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-92 {
   background-color: #eeeeee;
   color: #669966;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-93 {
   background-color: #669999;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-93 {
   background-color: #eeeeee;
   color: #669999;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-94 {
   background-color: #6699cc;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-94 {
   background-color: #eeeeee;
   color: #6699cc;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-95 {
   background-color: #6699ff;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-95 {
   background-color: #eeeeee;
   color: #6699ff;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-96 {
   background-color: #66cc00;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-96 {
   background-color: #333333;
   color: #66cc00;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-97 {
   background-color: #66cc33;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-97 {
   background-color: #333333;
   color: #66cc33;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-98 {
   background-color: #66cc66;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-98 {
   background-color: #333333;
   color: #66cc66;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-99 {
   background-color: #66cc99;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-99 {
   background-color: #333333;
   color: #66cc99;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-100 {
   background-color: #66cccc;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-100 {
   background-color: #333333;
   color: #66cccc;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-101 {
   background-color: #66ccff;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-101 {
   background-color: #333333;
   color: #66ccff;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-102 {
   background-color: #66ff00;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-102 {
   background-color: #333333;
   color: #66ff00;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-103 {
   background-color: #66ff33;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-103 {
   background-color: #333333;
   color: #66ff33;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-104 {
   background-color: #66ff66;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-104 {
   background-color: #333333;
   color: #66ff66;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-105 {
   background-color: #66ff99;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-105 {
   background-color: #333333;
   color: #66ff99;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-106 {
   background-color: #66ffcc;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-106 {
   background-color: #333333;
   color: #66ffcc;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-107 {
   background-color: #66ffff;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-107 {
   background-color: #333333;
   color: #66ffff;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-108 {
   background-color: #990000;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-108 {
   background-color: #eeeeee;
   color: #990000;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-109 {
   background-color: #990033;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-109 {
   background-color: #eeeeee;
   color: #990033;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-110 {
   background-color: #990066;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-110 {
   background-color: #eeeeee;
   color: #990066;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-111 {
   background-color: #990099;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-111 {
   background-color: #eeeeee;
   color: #990099;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-112 {
   background-color: #9900cc;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-112 {
   background-color: #eeeeee;
   color: #9900cc;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-113 {
   background-color: #9900ff;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-113 {
   background-color: #eeeeee;
   color: #9900ff;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-114 {
   background-color: #993300;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-114 {
   background-color: #eeeeee;
   color: #993300;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-115 {
   background-color: #993333;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-115 {
   background-color: #eeeeee;
   color: #993333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-116 {
   background-color: #993366;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-116 {
   background-color: #eeeeee;
   color: #993366;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-117 {
   background-color: #993399;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-117 {
   background-color: #eeeeee;
   color: #993399;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-118 {
   background-color: #9933cc;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-118 {
   background-color: #eeeeee;
   color: #9933cc;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-119 {
   background-color: #9933ff;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-119 {
   background-color: #eeeeee;
   color: #9933ff;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-120 {
   background-color: #996600;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-120 {
   background-color: #eeeeee;
   color: #996600;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-121 {
   background-color: #996633;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-121 {
   background-color: #eeeeee;
   color: #996633;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-122 {
   background-color: #996666;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-122 {
   background-color: #eeeeee;
   color: #996666;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-123 {
   background-color: #996699;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-123 {
   background-color: #eeeeee;
   color: #996699;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-124 {
   background-color: #9966cc;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-124 {
   background-color: #eeeeee;
   color: #9966cc;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-125 {
   background-color: #9966ff;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-125 {
   background-color: #eeeeee;
   color: #9966ff;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-126 {
   background-color: #999900;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-126 {
   background-color: #eeeeee;
   color: #999900;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-127 {
   background-color: #999933;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-127 {
   background-color: #eeeeee;
   color: #999933;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-128 {
   background-color: #999966;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-128 {
   background-color: #eeeeee;
   color: #999966;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-129 {
   background-color: #999999;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-129 {
   background-color: #eeeeee;
   color: #999999;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-130 {
   background-color: #9999cc;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-130 {
   background-color: #eeeeee;
   color: #9999cc;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-131 {
   background-color: #9999ff;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-131 {
   background-color: #eeeeee;
   color: #9999ff;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-132 {
   background-color: #99cc00;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-132 {
   background-color: #333333;
   color: #99cc00;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-133 {
   background-color: #99cc33;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-133 {
   background-color: #333333;
   color: #99cc33;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-134 {
   background-color: #99cc66;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-134 {
   background-color: #333333;
   color: #99cc66;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-135 {
   background-color: #99cc99;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-135 {
   background-color: #333333;
   color: #99cc99;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-136 {
   background-color: #99cccc;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-136 {
   background-color: #333333;
   color: #99cccc;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-137 {
   background-color: #99ccff;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-137 {
   background-color: #333333;
   color: #99ccff;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-138 {
   background-color: #99ff00;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-138 {
   background-color: #333333;
   color: #99ff00;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-139 {
   background-color: #99ff33;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-139 {
   background-color: #333333;
   color: #99ff33;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-140 {
   background-color: #99ff66;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-140 {
   background-color: #333333;
   color: #99ff66;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-141 {
   background-color: #99ff99;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-141 {
   background-color: #333333;
   color: #99ff99;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-142 {
   background-color: #99ffcc;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-142 {
   background-color: #333333;
   color: #99ffcc;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-143 {
   background-color: #99ffff;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-143 {
   background-color: #333333;
   color: #99ffff;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-144 {
   background-color: #cc0000;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-144 {
   background-color: #eeeeee;
   color: #cc0000;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-145 {
   background-color: #cc0033;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-145 {
   background-color: #eeeeee;
   color: #cc0033;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-146 {
   background-color: #cc0066;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-146 {
   background-color: #eeeeee;
   color: #cc0066;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-147 {
   background-color: #cc0099;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-147 {
   background-color: #eeeeee;
   color: #cc0099;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-148 {
   background-color: #cc00cc;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-148 {
   background-color: #eeeeee;
   color: #cc00cc;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-149 {
   background-color: #cc00ff;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-149 {
   background-color: #eeeeee;
   color: #cc00ff;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-150 {
   background-color: #cc3300;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-150 {
   background-color: #eeeeee;
   color: #cc3300;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-151 {
   background-color: #cc3333;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-151 {
   background-color: #eeeeee;
   color: #cc3333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-152 {
   background-color: #cc3366;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-152 {
   background-color: #eeeeee;
   color: #cc3366;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-153 {
   background-color: #cc3399;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-153 {
   background-color: #eeeeee;
   color: #cc3399;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-154 {
   background-color: #cc33cc;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-154 {
   background-color: #eeeeee;
   color: #cc33cc;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-155 {
   background-color: #cc33ff;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-155 {
   background-color: #eeeeee;
   color: #cc33ff;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-156 {
   background-color: #cc6600;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-156 {
   background-color: #eeeeee;
   color: #cc6600;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-157 {
   background-color: #cc6633;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-157 {
   background-color: #eeeeee;
   color: #cc6633;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-158 {
   background-color: #cc6666;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-158 {
   background-color: #eeeeee;
   color: #cc6666;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-159 {
   background-color: #cc6699;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-159 {
   background-color: #eeeeee;
   color: #cc6699;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-160 {
   background-color: #cc66cc;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-160 {
   background-color: #eeeeee;
   color: #cc66cc;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-161 {
   background-color: #cc66ff;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-161 {
   background-color: #eeeeee;
   color: #cc66ff;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-162 {
   background-color: #cc9900;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-162 {
   background-color: #eeeeee;
   color: #cc9900;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-163 {
   background-color: #cc9933;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-163 {
   background-color: #eeeeee;
   color: #cc9933;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-164 {
   background-color: #cc9966;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-164 {
   background-color: #eeeeee;
   color: #cc9966;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-165 {
   background-color: #cc9999;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-165 {
   background-color: #eeeeee;
   color: #cc9999;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-166 {
   background-color: #cc99cc;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-166 {
   background-color: #eeeeee;
   color: #cc99cc;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-167 {
   background-color: #cc99ff;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-167 {
   background-color: #eeeeee;
   color: #cc99ff;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-168 {
   background-color: #cccc00;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-168 {
   background-color: #333333;
   color: #cccc00;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-169 {
   background-color: #cccc33;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-169 {
   background-color: #333333;
   color: #cccc33;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-170 {
   background-color: #cccc66;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-170 {
   background-color: #333333;
   color: #cccc66;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-171 {
   background-color: #cccc99;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-171 {
   background-color: #333333;
   color: #cccc99;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-172 {
   background-color: #cccccc;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-172 {
   background-color: #333333;
   color: #cccccc;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-173 {
   background-color: #ccccff;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-173 {
   background-color: #333333;
   color: #ccccff;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-174 {
   background-color: #ccff00;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-174 {
   background-color: #333333;
   color: #ccff00;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-175 {
   background-color: #ccff33;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-175 {
   background-color: #333333;
   color: #ccff33;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-176 {
   background-color: #ccff66;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-176 {
   background-color: #333333;
   color: #ccff66;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-177 {
   background-color: #ccff99;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-177 {
   background-color: #333333;
   color: #ccff99;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-178 {
   background-color: #ccffcc;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-178 {
   background-color: #333333;
   color: #ccffcc;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-179 {
   background-color: #ccffff;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-179 {
   background-color: #333333;
   color: #ccffff;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-180 {
   background-color: #ff0000;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-180 {
   background-color: #eeeeee;
   color: #ff0000;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-181 {
   background-color: #ff0033;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-181 {
   background-color: #eeeeee;
   color: #ff0033;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-182 {
   background-color: #ff0066;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-182 {
   background-color: #eeeeee;
   color: #ff0066;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-183 {
   background-color: #ff0099;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-183 {
   background-color: #eeeeee;
   color: #ff0099;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-184 {
   background-color: #ff00cc;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-184 {
   background-color: #eeeeee;
   color: #ff00cc;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-185 {
   background-color: #ff00ff;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-185 {
   background-color: #eeeeee;
   color: #ff00ff;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-186 {
   background-color: #ff3300;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-186 {
   background-color: #eeeeee;
   color: #ff3300;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-187 {
   background-color: #ff3333;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-187 {
   background-color: #eeeeee;
   color: #ff3333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-188 {
   background-color: #ff3366;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-188 {
   background-color: #eeeeee;
   color: #ff3366;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-189 {
   background-color: #ff3399;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-189 {
   background-color: #eeeeee;
   color: #ff3399;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-190 {
   background-color: #ff33cc;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-190 {
   background-color: #eeeeee;
   color: #ff33cc;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-191 {
   background-color: #ff33ff;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-191 {
   background-color: #eeeeee;
   color: #ff33ff;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-192 {
   background-color: #ff6600;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-192 {
   background-color: #eeeeee;
   color: #ff6600;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-193 {
   background-color: #ff6633;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-193 {
   background-color: #eeeeee;
   color: #ff6633;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-194 {
   background-color: #ff6666;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-194 {
   background-color: #eeeeee;
   color: #ff6666;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-195 {
   background-color: #ff6699;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-195 {
   background-color: #eeeeee;
   color: #ff6699;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-196 {
   background-color: #ff66cc;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-196 {
   background-color: #eeeeee;
   color: #ff66cc;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-197 {
   background-color: #ff66ff;
   color: #eeeeee;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-inverse.avatar-color-197 {
   background-color: #eeeeee;
   color: #ff66ff;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-color-198 {
   background-color: #ff9900;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-198 {
   background-color: #333333;
   color: #ff9900;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-199 {
   background-color: #ff9933;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-199 {
   background-color: #333333;
   color: #ff9933;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-200 {
   background-color: #ff9966;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-200 {
   background-color: #333333;
   color: #ff9966;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-201 {
   background-color: #ff9999;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-201 {
   background-color: #333333;
   color: #ff9999;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-202 {
   background-color: #ff99cc;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-202 {
   background-color: #333333;
   color: #ff99cc;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-203 {
   background-color: #ff99ff;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-203 {
   background-color: #333333;
   color: #ff99ff;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-204 {
   background-color: #ffcc00;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-204 {
   background-color: #333333;
   color: #ffcc00;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-205 {
   background-color: #ffcc33;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-205 {
   background-color: #333333;
   color: #ffcc33;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-206 {
   background-color: #ffcc66;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-206 {
   background-color: #333333;
   color: #ffcc66;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-207 {
   background-color: #ffcc99;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-207 {
   background-color: #333333;
   color: #ffcc99;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-208 {
   background-color: #ffcccc;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-208 {
   background-color: #333333;
   color: #ffcccc;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-209 {
   background-color: #ffccff;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-209 {
   background-color: #333333;
   color: #ffccff;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-210 {
   background-color: #ffff00;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-210 {
   background-color: #333333;
   color: #ffff00;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-211 {
   background-color: #ffff33;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-211 {
   background-color: #333333;
   color: #ffff33;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-212 {
   background-color: #ffff66;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-212 {
   background-color: #333333;
   color: #ffff66;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-213 {
   background-color: #ffff99;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-213 {
   background-color: #333333;
   color: #ffff99;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-214 {
   background-color: #ffffcc;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-214 {
   background-color: #333333;
   color: #ffffcc;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .avatar-color-215 {
   background-color: #ffffff;
   color: #333333;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 .avatar-inverse.avatar-color-215 {
   background-color: #333333;
   color: #ffffff;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
