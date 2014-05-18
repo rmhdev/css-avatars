@@ -103,8 +103,8 @@
             </div>
             <div class="col-md-10">
                 <pre><code class="html"><?php
-                        echo htmlentities('<i class="avatar avatar-inverse avatar-color-100">&</i>');
-                        ?></code></pre>
+                    echo htmlentities('<i class="avatar avatar-inverse avatar-color-100">&</i>');
+                ?></code></pre>
             </div>
         </div>
 
