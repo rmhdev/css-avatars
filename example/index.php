@@ -87,7 +87,7 @@
         <li>Created by Rober Martín</li>
         <li>Code on <a href="https://github.com/rmhdev/css-avatars">GitHub</a></li>
         <li>Code licensed under <a href="https://github.com/rmhdev/css-avatars/blob/master/LICENSE">MIT</a>,
-            documentation under <a href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0.</a><s/li>
+            documentation under <a href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0.</a></li>
     </ul>
 </footer>
 
