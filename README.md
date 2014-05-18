@@ -42,8 +42,9 @@ Code and documentation copyright 2014 Rober Martín.
 Code released under [the MIT license](LICENSE).
 Docs released under [Creative Commons CC BY 4.0][].
 
-This project is inspired in Gmail's default avatars. CSS is based on [Glyphicons] awesome work.
-I started working on this projects after reading [Switch from Gravatar to HTML/CSS letters for no-avatar users][].
+This project is inspired in default avatars used in Google's Gmail Android App.
+CSS is based on [Glyphicons] (awesome project!).
+I started working on this project after reading [Switch from Gravatar to HTML/CSS letters for no-avatar users][].
 
 ## Author
 
