@@ -24,6 +24,9 @@ pre.how-to-use {
     border: 1px solid #fff;
     background-color: #f9f9f9
 }
+.doc-avatars-inverse li {
+    height: 125px;
+}
 
 .doc-avatars .avatar {
     margin-top: 5px;
@@ -66,6 +69,7 @@ pre.how-to-use {
     }
 }
 
+h3 { border-bottom: 1px solid #999; }
 
 .footer {
     padding-top: 40px;

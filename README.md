@@ -2,7 +2,7 @@
 
 Minimalistic avatars based on css. Color + letter = visual identification.
 
-Possible combinations: `216` colors * `26` letters: `5616`
+Possible combinations: `216` colors * `26` letters * `2` versions (default, inverted): `11232`
 
 ## How to use
 
@@ -14,12 +14,13 @@ Possible combinations: `216` colors * `26` letters: `5616`
 - `avatar-color-X`: color number, from `0` to `215`. Know more about [web-safe colors][]
 - `avatar-letter-Y`: letter, from `a` to `z`
 - `avatar-Z`: (optional) size: `sm`, `md`, `lg`
+- `avatar-inverse`: (optional) inverted colors
 
 ## Examples
 
-![Avatar examples](docs/avatars-example.png)
-
 View an [online demo][].
+
+![Avatar examples](docs/avatars-example.png)
 
 ## Code
 
@@ -31,6 +32,7 @@ I started this project with some goals in mind:
 ### Change log
 
 * `0.0.1` (May 18, 2014): initial release.
+* `0.1.0` (May 18, 2014): added inverse mode.
 
 ## Copyright and license
 

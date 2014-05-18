@@ -57,19 +57,26 @@
 @safe-rgb:    0, 51, 102, 153, 204, 255;
 @size:        length(@safe-rgb);
 
-.generate-colors(216);
+.avatar         { background-color: @color-light; color: @color-dark; }
+.avatar-inverse { background-color: @color-dark; color: @color-light; }
 
+.generate-colors(216);
 .generate-colors(@n, @i: 0) when (@i < @n) {
+  @mod3: mod(@i, @size);
+  @mod2: mod(floor(@i / @size), @size);
+  @mod1: mod(floor(floor(@i / @size) / @size), @size);
+  @char3 : extract(@safe-rgb, (@mod3 + 1));
+  @char2 : extract(@safe-rgb, (@mod2 + 1));
+  @char1 : extract(@safe-rgb, (@mod1 + 1));
+  @primaryColor: rgb(@char1, @char2, @char3);
+  @secondaryColor: contrast(@primaryColor, @color-dark, @color-light);
   .avatar-color-@{i} {
-    @mod3: mod(@i, @size);
-    @mod2: mod(floor(@i / @size), @size);
-    @mod1: mod(floor(floor(@i / @size) / @size), @size);
-    @char3 : extract(@safe-rgb, (@mod3 + 1));
-    @char2 : extract(@safe-rgb, (@mod2 + 1));
-    @char1 : extract(@safe-rgb, (@mod1 + 1));
-    @avatarColor: rgb(@char1, @char2, @char3);
-    background-color: @avatarColor;
-    color: contrast(@avatarColor, @color-dark, @color-light);
+    background-color: @primaryColor;
+    color: @secondaryColor;
+  }
+  .avatar-inverse.avatar-color-@{i} {
+    background-color: @secondaryColor;
+    color: @primaryColor;
   }
   .generate-colors(@n, (@i + 1));
 }

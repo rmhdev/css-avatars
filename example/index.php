@@ -42,6 +42,7 @@
                     <dt><code>.avatar-color-X</code></dt><dd>color number, from <code>0</code> to <code>215</code></dd>
                     <dt><code>.avatar-letter-Y</code></dt><dd>Letter, from <code>a</code> to <code>z</code></dd>
                     <dt><code>.avatar-Z</code></dt><dd>(optional) size: <code>sm</code>, <code>md</code>, <code>lg</code></dd>
+                    <dt><code>.avatar-inverse</code></dt><dd>(optional) inverted colors</dd>
                 </dl>
             </div>
         </div>
@@ -59,7 +60,21 @@
             </ul>
         </div>
 
-        <h3>Sizes</h3>
+        <h3>Inverse versions</h3>
+
+        <div class="doc-avatars doc-avatars-inverse">
+            <ul class="doc-avatars-list">
+                <?php for ($i = 0; $i < 216; $i += 1) : $letter = chr(($i % 26) + 97); ?>
+                    <li>
+                        <span class="avatar avatar-inverse avatar-color-<?php echo $i; ?> avatar-letter-<?php echo $letter; ?>"></span>
+                        <span class="doc-avatar-class">avatar avatar-inverse avatar-color-<?php echo $i; ?> avatar-letter-<?php echo $letter; ?></span>
+                    </li>
+                <?php endfor; ?>
+
+            </ul>
+        </div>
+
+        <h2>Sizes</h2>
 
         <div class="row text-center">
             <div class="col-md-3">
