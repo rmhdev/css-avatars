@@ -20,7 +20,7 @@ Possible combinations: `216` colors * `26` letters * `2` versions (default, inve
 
 ## Examples
 
-View an [online demo][].
+View an [online demo][]. There's also a [raw demo][] with all the colors and sizes.
 
 ![Avatar examples](docs/avatars-example.png)
 
@@ -53,6 +53,7 @@ My name is [Rober Martín][] ([@rmhdev][]). I'm a developer from Donostia / San 
 [Less]: http://lesscss.org/
 [web-safe colors]: http://en.wikipedia.org/wiki/Web_colors#Web-safe_colors
 [online demo]: http://css-avatars.rmhdev.net/
+[raw demo]: http://css-avatars.rmhdev.net/raw.html
 [Creative Commons CC BY 4.0]: http://creativecommons.org/licenses/by/4.0/
 [Glyphicons]: http://glyphicons.com/
 [Switch from Gravatar to HTML/CSS letters for no-avatar users]: https://meta.discourse.org/t/switch-from-gravatar-to-html-css-letters-for-no-avatar-users/15336
