@@ -19,6 +19,8 @@ Possible combinations: `216` colors * `26` letters: `5616`
 
 ![Avatar examples](docs/avatars-example.png)
 
+View an [online demo][].
+
 ## Code
 
 I started this project with some goals in mind:
@@ -45,6 +47,7 @@ My name is [Rober Martín][] ([@rmhdev][]). I'm a developer from Donostia / San 
 
 [Less]: http://lesscss.org/
 [web-safe colors]: http://en.wikipedia.org/wiki/Web_colors#Web-safe_colors
+[online demo]: http://css-avatars.rmhdev.net/
 [Creative Commons CC BY 4.0]: http://creativecommons.org/licenses/by/4.0/
 [Glyphicons]: http://glyphicons.com/
 [Switch from Gravatar to HTML/CSS letters for no-avatar users]: https://meta.discourse.org/t/switch-from-gravatar-to-html-css-letters-for-no-avatar-users/15336
