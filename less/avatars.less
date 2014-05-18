@@ -1,3 +1,9 @@
+/*!
+ * CSS avatars v0.2.0 (https://github.com/rmhdev/css-avatars)
+ * Copyright 2014 Rober Martín (@rmhdev)
+ * Licensed under MIT (https://github.com/rmhdev/css-avatars/blob/master/LICENSE)
+ */
+
 .avatar {
   position: relative;
   top: 1px;
@@ -21,7 +27,7 @@
 
 // letters:
 
-.avatar:before { content: "\003F";}
+.avatar:before { }
 .avatar-letter-a:before { content: "\0061"; }
 .avatar-letter-b:before { content: "\0062"; }
 .avatar-letter-c:before { content: "\0063"; }
@@ -49,7 +55,6 @@
 .avatar-letter-y:before { content: "\0079"; }
 .avatar-letter-z:before { content: "\007A"; }
 
-
 // colors:
 
 @color-dark:  #333;
@@ -65,9 +70,9 @@
   @mod3: mod(@i, @size);
   @mod2: mod(floor(@i / @size), @size);
   @mod1: mod(floor(floor(@i / @size) / @size), @size);
-  @char3 : extract(@safe-rgb, (@mod3 + 1));
-  @char2 : extract(@safe-rgb, (@mod2 + 1));
-  @char1 : extract(@safe-rgb, (@mod1 + 1));
+  @char3: extract(@safe-rgb, (@mod3 + 1));
+  @char2: extract(@safe-rgb, (@mod2 + 1));
+  @char1: extract(@safe-rgb, (@mod1 + 1));
   @primaryColor: rgb(@char1, @char2, @char3);
   @secondaryColor: contrast(@primaryColor, @color-dark, @color-light);
   .avatar-color-@{i} {

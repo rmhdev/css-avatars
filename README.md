@@ -13,14 +13,21 @@ Possible combinations: `216` colors * `26` letters * `2` versions (default, inve
 ```
 
 - `avatar`: base class
-- `avatar-color-X`: color number, from `0` to `215`. Know more about [web-safe colors][]
-- `avatar-letter-Y`: letter, from `a` to `z`
-- `avatar-Z`: (optional) size: `sm`, `md`, `lg`
+- `avatar-color-*`: color number, from `0` to `215`. Know more about [web-safe colors][]
+- `avatar-letter-*`: (optional) letter, from `a` to `z`
+- `avatar-*`: (optional) size: `sm`, `md`, `lg`
 - `avatar-inverse`: (optional) inverted colors
+
+You can also create avatars with special letters.
+Just don't use the `avatar-letter-*` class and write the letter in the tag.
+
+```
+<i class="avatar avatar-color-201">ü</i>
+```
 
 ## Examples
 
-View an [online demo][]. There's also a [raw demo][] with all the colors and sizes.
+View an [online demo][]. There's a [raw demo][] with all the colors and sizes.
 
 ![Avatar examples](docs/avatars-example.png)
 
@@ -35,11 +42,12 @@ I started this project with some goals in mind:
 
 * `0.0.1` (May 18, 2014): initial release.
 * `0.1.0` (May 18, 2014): added inverse mode.
+* `0.2.0` (May 18, 2014): letter class is optional (for adding special characters).
 
 ## Copyright and license
 
 Code and documentation copyright 2014 Rober Martín.
-Code released under [the MIT license](LICENSE).
+Code released under [MIT license](LICENSE).
 Docs released under [Creative Commons CC BY 4.0][].
 
 This project is inspired in default avatars used in Google's Gmail Android App.

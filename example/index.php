@@ -39,9 +39,9 @@
             <div class="col-md-6">
                 <dl class="dl-horizontal">
                     <dt><code>.avatar</code></dt><dd>Base class</dd>
-                    <dt><code>.avatar-color-X</code></dt><dd>color number, from <code>0</code> to <code>215</code></dd>
-                    <dt><code>.avatar-letter-Y</code></dt><dd>Letter, from <code>a</code> to <code>z</code></dd>
-                    <dt><code>.avatar-Z</code></dt><dd>(optional) size: <code>sm</code>, <code>md</code>, <code>lg</code></dd>
+                    <dt><code>.avatar-color-*</code></dt><dd>color number, from <code>0</code> to <code>215</code></dd>
+                    <dt><code>.avatar-letter-*</code></dt><dd>(optional) letter, from <code>a</code> to <code>z</code></dd>
+                    <dt><code>.avatar-*</code></dt><dd>(optional) size: <code>sm</code>, <code>md</code>, <code>lg</code></dd>
                     <dt><code>.avatar-inverse</code></dt><dd>(optional) inverted colors</dd>
                 </dl>
             </div>
@@ -72,6 +72,40 @@
                 <?php endfor; ?>
 
             </ul>
+        </div>
+
+        <h2>Special characters</h2>
+        <div class="row">
+            <div class="col-md-2 text-center">
+                <i class="avatar avatar-color-80">ü</i>
+            </div>
+            <div class="col-md-10">
+                <pre><code class="html"><?php
+                    echo htmlentities('<i class="avatar avatar-color-80">ü</i>');
+                ?></code></pre>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-2 text-center">
+                <i class="avatar avatar-color-196">?</i>
+            </div>
+            <div class="col-md-10">
+                <pre><code class="html"><?php
+                    echo htmlentities('<i class="avatar avatar-color-196">?</i>');
+                ?></code></pre>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-2 text-center">
+                <i class="avatar avatar-inverse avatar-color-100">&</i>
+            </div>
+            <div class="col-md-10">
+                <pre><code class="html"><?php
+                        echo htmlentities('<i class="avatar avatar-inverse avatar-color-100">&</i>');
+                        ?></code></pre>
+            </div>
         </div>
 
         <h2>Sizes</h2>
