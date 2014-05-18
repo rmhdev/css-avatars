@@ -1,6 +1,6 @@
 # css-avatars
 
-Minimalistic avatars based on css. Choose a color number, a letter and you have an avatar.
+Minimalistic avatars based on css. Color + letter = visual identification.
 
 Possible combinations: `216` colors * `26` letters: `5616`
 
@@ -11,7 +11,7 @@ Possible combinations: `216` colors * `26` letters: `5616`
 ```
 
 - `avatar`: base class
-- `avatar-color-X`: web-safe color, from `0` to `215`. Know more about [web-safe colors][]
+- `avatar-color-X`: color number, from `0` to `215`. Know more about [web-safe colors][]
 - `avatar-letter-Y`: letter, from `a` to `z`
 - `avatar-Z`: (optional) size: `sm`, `md`, `lg`
 
