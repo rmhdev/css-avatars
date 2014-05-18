@@ -34,7 +34,8 @@ pre.how-to-use {
 .doc-avatars .doc-avatar-class {
     display: block;
     text-align: center;
-    word-wrap: break-word
+    word-wrap: break-word;
+    font-size: 12px;
 }
 
 .doc-avatars li:hover {
@@ -50,6 +51,45 @@ pre.how-to-use {
 
     .doc-avatars li {
         width: 12.5%;
-        font-size: 12px
+        /*font-size: 12px*/
+    }
+}
+
+@media (max-width: 767px) {
+    .doc-avatars li {
+        width: 25%;
+    }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+    .doc-avatars li {
+        width: 15%;
+    }
+}
+
+
+.footer {
+    padding-top: 40px;
+    padding-bottom: 30px;
+    margin-top: 100px;
+    color: #777;
+    text-align: center;
+    border-top: 1px solid #e5e5e5;
+}
+.footer-links {
+    margin: 10px 0;
+    padding-left: 0;
+}
+.footer-links li {
+    padding: 0 2px;
+}
+.footer-links li:first-child {
+    padding-left: 0;
+}
+@media (min-width: 768px) {
+    .bs-footer {
+        text-align: left;
+    }
+    .bs-footer p {
+        margin-bottom: 0;
     }
 }

@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Minimalistic avatars based on css">
-    <meta name="keywords" content="">
+    <meta name="keywords" content="css, avatar">
     <meta name="author" content="@rmhdev">
 
     <title>CSS avatars</title>
@@ -21,7 +21,7 @@
     <div class="page-header">
         <div class="container">
             <h1>CSS avatars</h1>
-
+            <div class="pull-right"><a href="https://github.com/rmhdev/css-avatars" class="btn btn-success btn-lg">View code on GitHub</a></div>
             <p class="lead">Minimalistic avatars based on CSS</p>
         </div>
     </div>
@@ -38,13 +38,12 @@
     <div class="col-md-6">
         <dl class="dl-horizontal">
             <dt><code>.avatar</code></dt><dd>Base class</dd>
-            <dt><code>.avatar-color-X</code></dt><dd>Web-safe color, from <code>0</code> to <code>215</code></dd>
+            <dt><code>.avatar-color-X</code></dt><dd>color number, from <code>0</code> to <code>215</code></dd>
             <dt><code>.avatar-letter-Y</code></dt><dd>Letter, from <code>a</code> to <code>z</code></dd>
             <dt><code>.avatar-Z</code></dt><dd>(optional) size: <code>sm</code>, <code>md</code>, <code>lg</code></dd>
         </dl>
     </div>
 </div>
-
 
 <h2>Colors & letters</h2>
 <div class="doc-avatars">
@@ -919,27 +918,35 @@
 
 <h3>Sizes</h3>
 
-<div class="row">
-    <div class="col-md-1">
+<div class="row text-center">
+    <div class="col-md-3">
+        <div>Small (<code>avatar-sm</code>):</div>
         <i class="avatar avatar-color-0 avatar-letter-a avatar-sm"></i>
     </div>
-    <div class="col-md-2">
+    <div class="col-md-3">
+        <div>Default:</div>
         <i class="avatar avatar-color-0 avatar-letter-a"></i>
     </div>
     <div class="col-md-3">
+        <div>Medium (<code>avatar-md</code>):</div>
         <i class="avatar avatar-color-0 avatar-letter-a avatar-md"></i>
     </div>
-    <div class="col-md-4">
-        <i class="avatar avatar-color-15 avatar-letter-d avatar-lg"></i>
+    <div class="col-md-3">
+        <div>Large (<code>avatar-lg</code>):</div>
+        <i class="avatar avatar-color-0 avatar-letter-a avatar-lg"></i>
     </div>
 </div>
 </div>
 </main>
 
 <footer class="footer">
-
+    <ul class="footer-links">
+        <li>Created by Rober Martín</li>
+        <li>Code on <a href="https://github.com/rmhdev/css-avatars">GitHub</a></li>
+        <li>Code licensed under <a href="https://github.com/rmhdev/css-avatars/blob/master/LICENSE">MIT</a>,
+            documentation under <a href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0.</a></li>
+    </ul>
 </footer>
-
 
 </body>
 </html>
