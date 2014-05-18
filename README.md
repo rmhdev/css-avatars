@@ -2,6 +2,8 @@
 
 Minimalistic avatars based on css. Color + letter = visual identification.
 
+![Avatar letter C](docs/avatar-letter-c.png)
+
 Possible combinations: `216` colors * `26` letters * `2` versions (default, inverted): `11232`
 
 ## How to use
