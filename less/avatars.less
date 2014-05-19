@@ -78,12 +78,10 @@
   .avatar-color-@{i} {
     background-color: @primaryColor;
     color: @secondaryColor;
-    text-shadow: 0 1px 2px contrast(@primaryColor, rgba(0, 0, 0, .6), rgba(255, 255, 255, .6));
   }
   .avatar-inverse.avatar-color-@{i} {
     background-color: @secondaryColor;
     color: @primaryColor;
-    text-shadow: 0 1px 2px contrast(@secondaryColor, rgba(0, 0, 0, .6), rgba(255, 255, 255, .6));
   }
   .generate-colors(@n, (@i + 1));
 }
