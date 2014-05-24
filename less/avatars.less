@@ -1,5 +1,5 @@
 /*!
- * CSS avatars v0.2.0 (https://github.com/rmhdev/css-avatars)
+ * CSS avatars v0.3.0 (https://github.com/rmhdev/css-avatars)
  * Copyright 2014 Rober Martín (@rmhdev)
  * Licensed under MIT (https://github.com/rmhdev/css-avatars/blob/master/LICENSE)
  */
@@ -62,8 +62,19 @@
 @safe-rgb:    0, 51, 102, 153, 204, 255;
 @size:        length(@safe-rgb);
 
-.avatar         { background-color: @color-light; color: @color-dark; }
-.avatar-inverse { background-color: @color-dark; color: @color-light; }
+.avatar       { background-color: @color-dark; color: @color-light; }
+
+.initialize-inverse-mixin (@n, @index) when (@n = @index) {
+  .avatar-inverse { background-color: @color-dark; color: @color-light; }
+}
+
+.font-color-mixin (@newColor) when not(@newColor = @color-light) {
+  color: @newColor;
+}
+
+.background-color-mixin (@newColor) when not(@newColor = @color-dark) {
+  background-color: @newColor;
+}
 
 .generate-colors(216);
 .generate-colors(@n, @i: 0) when (@i < @n) {
@@ -77,11 +88,15 @@
   @secondaryColor: contrast(@primaryColor, @color-dark, @color-light);
   .avatar-color-@{i} {
     background-color: @primaryColor;
-    color: @secondaryColor;
-  }
-  .avatar-inverse.avatar-color-@{i} {
-    background-color: @secondaryColor;
-    color: @primaryColor;
+    .font-color-mixin(@secondaryColor);
   }
   .generate-colors(@n, (@i + 1));
+
+  .initialize-inverse-mixin(@n, (@i + 1));
+
+  .avatar-inverse.avatar-color-@{i} {
+    .background-color-mixin(@secondaryColor);
+    color: @primaryColor;
+  }
+
 }
