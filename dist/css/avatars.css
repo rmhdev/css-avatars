@@ -121,6 +121,7 @@
 .avatar {
   background-color: #333333;
   color: #eeeeee;
+  text-shadow: #4d4d4d 1px 1px 1px;
 }
 .avatar-color-0 {
   background-color: #000000;
@@ -851,6 +852,7 @@
 .avatar-inverse {
   background-color: #333333;
   color: #eeeeee;
+  text-shadow: #6f6f6f 1px 1px 1px;
 }
 .avatar-inverse.avatar-color-215 {
   color: #ffffff;
