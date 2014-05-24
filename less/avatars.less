@@ -62,10 +62,10 @@
 @safe-rgb:    0, 51, 102, 153, 204, 255;
 @size:        length(@safe-rgb);
 
-.avatar      { background-color: @color-dark; color: @color-light; text-shadow: lighten(@color-dark, 10%) 1px 1px 1px; }
+.avatar      { background-color: @color-dark; color: @color-light; text-shadow: lighten(@color-dark, 10%) 0.03em 0.03em 0.03em; }
 
 .initialize-inverse-mixin (@n, @index) when (@n = @index) {
-  .avatar-inverse { background-color: @color-dark; color: @color-light; text-shadow: darken(@color-light, 50%) 1px 1px 1px;  }
+  .avatar-inverse { background-color: @color-dark; color: @color-light; text-shadow: darken(@color-light, 50%) 0.03em 0.03em 0.03em; }
 }
 
 .font-color-mixin (@newColor) when not(@newColor = @color-light) {
@@ -100,3 +100,5 @@
   }
 
 }
+
+.avatar-plain { text-shadow: none; }
