@@ -43,6 +43,7 @@
                     <dt><code>.avatar-letter-*</code></dt><dd>(optional) letter, from <code>a</code> to <code>z</code></dd>
                     <dt><code>.avatar-*</code></dt><dd>(optional) size: <code>sm</code>, <code>md</code>, <code>lg</code></dd>
                     <dt><code>.avatar-inverse</code></dt><dd>(optional) inverted colors</dd>
+                    <dt><code>.avatar-plain</code></dt><dd>(optional) remove text shadow</dd>
                 </dl>
             </div>
         </div>
