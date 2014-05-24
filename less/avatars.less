@@ -57,16 +57,15 @@
 
 // colors:
 
-@color-dark:  #333;
-@color-light: #eee;
-@safe-rgb:    0, 51, 102, 153, 204, 255;
-@size:        length(@safe-rgb);
+@color-dark:          #333;
+@color-light:         #eee;
+@safe-rgb:            0, 51, 102, 153, 204, 255;
+@size:                length(@safe-rgb);
+@shadow-offset:       0.01em 0.01em 0.01em;
+@text-shadow-basic:   lighten(@color-dark, 10%) @shadow-offset;
+@text-shadow-inverse: darken(@color-light, 50%) @shadow-offset;
 
-.avatar      { background-color: @color-dark; color: @color-light; text-shadow: lighten(@color-dark, 10%) 0.03em 0.03em 0.03em; }
-
-.initialize-inverse-mixin (@n, @index) when (@n = @index) {
-  .avatar-inverse { background-color: @color-dark; color: @color-light; text-shadow: darken(@color-light, 50%) 0.03em 0.03em 0.03em; }
-}
+.avatar { background-color: @color-dark; color: @color-light; text-shadow: @text-shadow-basic; }
 
 .font-color-mixin (@newColor) when not(@newColor = @color-light) {
   color: @newColor;
@@ -74,6 +73,10 @@
 
 .background-color-mixin (@newColor) when not(@newColor = @color-dark) {
   background-color: @newColor;
+}
+
+.initialize-inverse-mixin (@n, @index) when (@n = @index) {
+  .avatar-inverse { background-color: @color-dark; color: @color-light; text-shadow: @text-shadow-inverse; }
 }
 
 .generate-colors(216);
