@@ -1,0 +1,8 @@
+.DS_Store
+._*
+Thumbs.db
+.cache
+.project
+.settings
+.idea
+node_modules
