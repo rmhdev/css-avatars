@@ -13,10 +13,11 @@ Possible combinations: `216` colors * `26` letters * `2` versions (default, inve
 ```
 
 - `avatar`: base class
-- `avatar-color-*`: color number, from `0` to `215`. Know more about [web-safe colors][]
+- `avatar-color-*`: color number, from `0` to `215`. Read more about [web-safe colors][]
 - `avatar-letter-*`: (optional) letter, from `a` to `z`
 - `avatar-*`: (optional) size: `sm`, `md`, `lg`
 - `avatar-inverse`: (optional) inverted colors
+- `avatar-plain`: (optional) remove text shadow
 
 You can also create avatars with special letters.
 Just don't use the `avatar-letter-*` class and write the letter in the tag.
@@ -43,6 +44,7 @@ I started this project with some goals in mind:
 * `0.0.1` (May 18, 2014): initial release.
 * `0.1.0` (May 18, 2014): added inverse mode.
 * `0.2.0` (May 18, 2014): letter class is optional (for adding special characters).
+* `0.3.0` (May 24, 2014): add text shadow (enhance readability).
 
 ## Copyright and license
 
