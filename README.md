@@ -52,7 +52,7 @@ I started this project with some goals in mind:
 * `0.0.1` (May 18, 2014): initial release.
 * `0.1.0` (May 18, 2014): added inverse mode.
 * `0.2.0` (May 18, 2014): letter class is optional (for adding special characters).
-* `0.3.0` (May 25, 2014): add text shadow (enhance readability).
+* `0.3.0` (May 25, 2014): add text shadow (enhance readability). Files with consistent naming.
 
 ## Copyright and license
 
