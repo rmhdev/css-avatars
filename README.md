@@ -14,11 +14,10 @@ Two options are available:
 - Clone the repo:`git clone https://github.com/rmhdev/css-avatars.git`
 
 
-
 ## How to use
 
 ```
-<i class="avatar avatar-color-12 avatar-letter-r"></i>
+<i class="avatar avatar-color-95 avatar-letter-c"></i>
 ```
 
 - `avatar`: base class
