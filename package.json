@@ -1,30 +1,32 @@
 {
-    "name": "avatars",
-    "homepage": "https://github.com/rmhdev/css-avatars",
-    "author": "Rober Martín H (@rmhdev)",
-    "version": "0.3.0",
-    "style": "dist/css/avatars.css",
-    "less": "less/avatars.less",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/rmhdev/css-avatars.git"
-    },
-    "bugs": {
-        "url": "https://github.com/twbs/bootstrap/issues"
-    },
-    "license": {
-        "type": "MIT",
-        "url": "https://github.com/rmhdev/css-avatars/blob/master/LICENSE"
-    },
-    "devDependencies": {
-        "grunt": "~0.4.5",
-        "grunt-banner": "~0.2.2",
-        "grunt-autoprefixer": "~0.7.2",
-        "grunt-contrib-watch": "~0.6.1",
-        "grunt-contrib-less": "~0.11.0",
-        "grunt-contrib-cssmin": "~0.9.0"
-    },
-    "engines": {
-        "node": "~0.10.1"
-    }
+  "name": "css-avatars",
+  "homepage": "https://github.com/rmhdev/css-avatars",
+  "author": "Rober Martín H (@rmhdev)",
+  "version": "0.3.0",
+  "fileName": "avatars",
+  "style": "dist/css/avatars.css",
+  "less": "less/avatars.less",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rmhdev/css-avatars.git"
+  },
+  "bugs": {
+    "url": "https://github.com/twbs/bootstrap/issues"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/rmhdev/css-avatars/blob/master/LICENSE"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-autoprefixer": "~0.7.2",
+    "grunt-banner": "~0.2.2",
+    "grunt-contrib-compress": "^0.9.1",
+    "grunt-contrib-cssmin": "~0.9.0",
+    "grunt-contrib-less": "~0.11.0",
+    "grunt-contrib-watch": "~0.6.1"
+  },
+  "engines": {
+    "node": "~0.10.1"
+  }
 }

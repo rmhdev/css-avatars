@@ -25,7 +25,7 @@ module.exports = function (grunt) {
         less: {
             compileCore: {
                 files: {
-                    'dist/css/<%= pkg.name %>.css': 'less/<%= pkg.name %>.less'
+                    'dist/css/<%= pkg.fileName %>.css': 'less/<%= pkg.fileName %>.less'
                 }
             }
         },
@@ -37,7 +37,7 @@ module.exports = function (grunt) {
             },
             core: {
                 files: {
-                    'dist/css/<%= pkg.name %>.min.css': 'dist/css/<%= pkg.name %>.css'
+                    'dist/css/<%= pkg.fileName %>.min.css': 'dist/css/<%= pkg.fileName %>.css'
                 }
             }
         },
@@ -57,6 +57,18 @@ module.exports = function (grunt) {
                 files: 'less/*.less',
                 tasks: 'less'
             }
+        },
+
+        compress: {
+            main: {
+                options: {
+                    mode: 'zip',
+                    archive: '<%= pkg.fileName %>-<%= pkg.version %>.zip'
+                },
+                files: [
+                    { expand: true, src: ['dist/**'], dest: '<%= pkg.fileName %>-<%= pkg.version %>' }
+                ]
+            }
         }
 
     });
@@ -64,6 +76,7 @@ module.exports = function (grunt) {
     grunt.loadNpmTasks('grunt-contrib-watch');
     grunt.loadNpmTasks('grunt-contrib-less');
     grunt.loadNpmTasks('grunt-contrib-cssmin');
+    grunt.loadNpmTasks('grunt-contrib-compress');
     grunt.loadNpmTasks('grunt-banner');
 
     // CSS distribution task.
