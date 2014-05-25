@@ -3,7 +3,6 @@
   "homepage": "https://github.com/rmhdev/css-avatars",
   "author": "Rober Martín H (@rmhdev)",
   "version": "0.3.0",
-  "fileName": "avatars",
   "style": "dist/css/avatars.css",
   "less": "less/avatars.less",
   "repository": {

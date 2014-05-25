@@ -25,7 +25,7 @@ module.exports = function (grunt) {
         less: {
             compileCore: {
                 files: {
-                    'dist/css/<%= pkg.fileName %>.css': 'less/<%= pkg.fileName %>.less'
+                    'dist/css/<%= pkg.name %>.css': 'less/<%= pkg.name %>.less'
                 }
             }
         },
@@ -37,7 +37,7 @@ module.exports = function (grunt) {
             },
             core: {
                 files: {
-                    'dist/css/<%= pkg.fileName %>.min.css': 'dist/css/<%= pkg.fileName %>.css'
+                    'dist/css/<%= pkg.name %>.min.css': 'dist/css/<%= pkg.name %>.css'
                 }
             }
         },
@@ -63,11 +63,11 @@ module.exports = function (grunt) {
             main: {
                 options: {
                     mode: 'zip',
-                    archive: 'dist/<%= pkg.fileName %>-<%= pkg.version %>.zip'
+                    archive: 'dist/<%= pkg.name %>-<%= pkg.version %>-dist.zip'
                 },
                 expand: true,
                 src: ['dist/**'],
-                dest: '<%= pkg.fileName %>-<%= pkg.version %>'
+                dest: '<%= pkg.name %>-<%= pkg.version %>-dist'
             }
         }
 

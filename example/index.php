@@ -12,7 +12,7 @@
 
     <link href="./css/bootstrap.min.css" rel="stylesheet">
     <link href="./css/docs.css" rel="stylesheet">
-    <link href="../dist/css/avatars.css" rel="stylesheet">
+    <link href="../dist/css/css-avatars.min.css" rel="stylesheet">
 </head>
 <body>
 
