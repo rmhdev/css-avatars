@@ -51,11 +51,10 @@
         <h2>Colors & letters</h2>
         <div class="doc-avatars">
             <ul class="doc-avatars-list">
-                <?php for ($i = 0; $i < 216; $i += 1) : $letter = chr(($i % 26) + 97); ?>
-                    <li>
-                        <span class="avatar avatar-color-<?php echo $i; ?> avatar-letter-<?php echo $letter; ?>"></span>
-                        <span class="doc-avatar-class">avatar avatar-color-<?php echo $i; ?> avatar-letter-<?php echo $letter; ?></span>
-                    </li>
+                <?php for ($i = 0; $i < 216; $i += 1) : $letter = chr(($i % 26) + 97); ?><li>
+                    <span class="avatar avatar-color-<?php echo $i; ?> avatar-letter-<?php echo $letter; ?>"></span>
+                    <span class="doc-avatar-class">avatar avatar-color-<?php echo $i; ?> avatar-letter-<?php echo $letter; ?></span>
+                </li>
                 <?php endfor; ?>
 
             </ul>
@@ -65,11 +64,10 @@
 
         <div class="doc-avatars doc-avatars-inverse">
             <ul class="doc-avatars-list">
-                <?php for ($i = 0; $i < 216; $i += 1) : $letter = chr(($i % 26) + 97); ?>
-                    <li>
-                        <span class="avatar avatar-inverse avatar-color-<?php echo $i; ?> avatar-letter-<?php echo $letter; ?>"></span>
-                        <span class="doc-avatar-class">avatar avatar-inverse avatar-color-<?php echo $i; ?> avatar-letter-<?php echo $letter; ?></span>
-                    </li>
+                <?php for ($i = 0; $i < 216; $i += 1) : $letter = chr(($i % 26) + 97); ?><li>
+                    <span class="avatar avatar-inverse avatar-color-<?php echo $i; ?> avatar-letter-<?php echo $letter; ?>"></span>
+                    <span class="doc-avatar-class">avatar avatar-inverse avatar-color-<?php echo $i; ?> avatar-letter-<?php echo $letter; ?></span>
+                </li>
                 <?php endfor; ?>
 
             </ul>
