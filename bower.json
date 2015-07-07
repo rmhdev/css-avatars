@@ -1,0 +1,19 @@
+{
+  "name": "css-avatars",
+  "description": "Minimalistic avatars based on CSS",
+  "homepage": "https://github.com/rmhdev/css-avatars",
+  "authors": [
+    "Rober Martin H <rmh.dev@gmail.com>"
+  ],
+  "main": "less/css-avatars.less",
+  "keywords": [
+    "css",
+    "avatar"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
