@@ -1,11 +1,9 @@
 {
   "name": "css-avatars",
+  "description": "Minimalistic avatars based on CSS",
   "homepage": "https://github.com/rmhdev/css-avatars",
   "author": "Rober Martín H (@rmhdev)",
   "version": "0.4.0",
-  "main": [
-    "less/avatars.less"
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/rmhdev/css-avatars.git"
