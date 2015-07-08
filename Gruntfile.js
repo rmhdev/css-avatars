@@ -1,8 +1,8 @@
 /*!
  * CSS avatar's Gruntfile
  * https://github.com/rmhdev/css-avatars
- * Copyright 2014 Rober Martín H
- * Licensed under MIT (https://github.com/rmhdev/css-avatars/blob/master/LICENSE)
+ * Copyright 2015 Rober Martín H
+ * Licensed under MIT
  */
 
 module.exports = function (grunt) {
