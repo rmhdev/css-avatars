@@ -45,6 +45,30 @@ View an [online demo][]. There's also a [raw demo][] with all the colors and siz
 
 ![Avatar examples](docs/avatars-example.jpg)
 
+## Do it yourself
+
+Creating your customized CSS avatars is easy. You'll need [npm][], the `nodejs` package manager; check it before continuing.
+
+Clone the repo:
+
+```
+git clone https://github.com/rmhdev/css-avatars.git
+```
+
+Install the dependencies:
+
+```
+cd css-avatars
+npm install
+```
+
+That's it! Now edit the `less/css-avatars.less` and then run one of the following [grunt][] tasks:
+
+* `grunt less-compile`: compiles the `less` file, creating the final `css`.
+* `grunt dist-css`: generates the minified version of the `css` file.
+* `grunt compile`: compresses the `css` files in a `zip`.
+* `grunt`: this task will watch for changes in the `less` source, compiling it and generating the `css` file automatically.
+
 ## Code
 
 I started this project with some goals in mind:
@@ -52,7 +76,7 @@ I started this project with some goals in mind:
 - Play with [Less][]
 - Learn more about CSS + fonts.
 
-### Change log
+## Change log
 
 * `0.0.1` (May 18, 2014): initial release.
 * `0.1.0` (May 18, 2014): added inverse mode.
@@ -80,6 +104,8 @@ My name is [Rober Martín][] ([@rmhdev][]). I'm a developer from Donostia / San 
 [web-safe colors]: http://en.wikipedia.org/wiki/Web_colors#Web-safe_colors
 [online demo]: http://css-avatars.rmhdev.net/
 [raw demo]: http://css-avatars.rmhdev.net/raw.html
+[npm]: https://www.npmjs.com
+[grunt]: http://gruntjs.com
 [Creative Commons CC BY 4.0]: http://creativecommons.org/licenses/by/4.0/
 [Glyphicons]: http://glyphicons.com/
 [Switch from Gravatar to HTML/CSS letters for no-avatar users]:
