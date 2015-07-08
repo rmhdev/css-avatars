@@ -6,3 +6,4 @@ Thumbs.db
 .settings
 .idea
 node_modules
+dist/*.zip
