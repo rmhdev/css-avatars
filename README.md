@@ -64,9 +64,9 @@ npm install
 
 That's it! Now edit the `less/css-avatars.less` and then run one of the following [grunt][] tasks:
 
-* `grunt less-compile`: compiles the `less` file, creating the final `css`.
-* `grunt dist-css`: generates the minified version of the `css` file.
-* `grunt compile`: compresses the `css` files in a `zip`.
+* `grunt less-compile`: compiles the `less` file, creating the default `css` version.
+* `grunt dist-css`: generates the `css` files (default and minified versions).
+* `grunt compile`: compresses the `css` folder in a `zip`.
 * `grunt`: this task will watch for changes in the `less` source, compiling it and generating the `css` file automatically.
 
 ## Code
