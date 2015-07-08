@@ -8,11 +8,16 @@ Possible combinations: `216` colors * `26` letters * `2` versions (default, inve
 
 ## Installation
 
-Two options are available:
+The easiest way is using [bower][]:
+
+```
+bower install css-avatars
+```
+
+Other options:
 
 - Download the [latest release][].
 - Clone the repo:`git clone https://github.com/rmhdev/css-avatars.git`
-
 
 ## How to use
 
@@ -36,9 +41,9 @@ Just don't use the `avatar-letter-*` class and write the letter in the tag.
 
 ## Examples
 
-View an [online demo][]. There's a [raw demo][] with all the colors and sizes.
+View an [online demo][]. There's also a [raw demo][] with all the colors and sizes.
 
-![Avatar examples](docs/avatars-example.png)
+![Avatar examples](docs/avatars-example.jpg)
 
 ## Code
 
@@ -53,10 +58,11 @@ I started this project with some goals in mind:
 * `0.1.0` (May 18, 2014): added inverse mode.
 * `0.2.0` (May 18, 2014): letter class is optional (for adding special characters).
 * `0.3.0` (May 25, 2014): add text shadow (enhance readability). Files with consistent naming.
+* `0.4.0` (Jul 8, 2015): increase font size. Add bower support.
 
 ## Copyright and license
 
-Code and documentation copyright 2014 Rober Martín.
+Code and documentation copyright 2015 Rober Martín.
 Code released under [MIT license](LICENSE).
 Docs released under [Creative Commons CC BY 4.0][].
 
@@ -68,6 +74,7 @@ I started working on this project after reading [Switch from Gravatar to HTML/CS
 
 My name is [Rober Martín][] ([@rmhdev][]). I'm a developer from Donostia / San Sebastián.
 
+[bower]: http://bower.io
 [latest release]: https://github.com/rmhdev/css-avatars/releases/latest
 [Less]: http://lesscss.org/
 [web-safe colors]: http://en.wikipedia.org/wiki/Web_colors#Web-safe_colors
